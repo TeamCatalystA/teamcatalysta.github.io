@@ -3,3 +3,8 @@ body {
   background-color: #eeeeee;
   text-align: center;
 }
+
+section.content {
+  text-align: left;
+  width: 70%;
+}

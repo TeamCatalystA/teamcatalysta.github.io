@@ -287,23 +287,5 @@ dl { margin: 12px 0; }
 dt { margin: 0; color:#11ABB0; }
 dd { margin: 0 0 0 20px; }
 
-/* Lining Definition Style Markup */
-.lining dt,
-.lining dd {
-	display: inline;
-	margin: 0;
-}
-.lining dt + dt:before,
-.lining dd + dt:before {
-	content: "\A";
-	white-space: pre;
-}
-.lining dd + dd:before {
-	content: ", ";
-}
-.lining dd:before {
-	content: ": ";
-	margin-left: -0.2em;
-}
 
 

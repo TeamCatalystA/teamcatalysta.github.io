@@ -1,0 +1,2249 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-07-29T10:05:41Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc">http://r4d.dfid.gov.uk/OAI/2.0/</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5001</identifier>
+        <datestamp>2004-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Livelihoods and Policy in the Artisanal and Small-Scale Mining Sector - An Overview.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Centre for Development Studies</dc:creator>
+          <dc:description>
+            <![CDATA[
+This report seeks to bring together important findings from research on artisanal and small-scale mining (ASM) orientated around social and community issues. It identifies a number of key policy challenges, and suggests how these policy challenges might be met.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The report draws on a range of material looking at the sector from across the&lt;br/&gt;&lt;br/&gt;world. In particular, it uses two DFID funded livelihoods studies recently carried out in Tanzania and Ghana and five UNDP funded livelihoods studies in&lt;br/&gt;&lt;br/&gt;Tanzania, Ghana, Guinea, Mali and Ethiopia. Whilst most of the literature&lt;br/&gt;&lt;br/&gt;referred to has not been compiled using a livelihoods methodology, findings&lt;br/&gt;&lt;br/&gt;have been grouped and presented in a way that is consistent with a livelihoods approach.
+]]>
+          </dc:description>
+          <dc:subject>Geoscience</dc:subject>
+          <dc:subject>Infrastructure</dc:subject>
+          <dc:subject>G1</dc:subject>
+          <dc:subject>policy development</dc:subject>
+          <dc:subject>trees</dc:subject>
+          <dc:date>2004-01-01T00:00:00</dc:date>
+          <dc:coverage>Ethiopia</dc:coverage>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>Guinea</dc:coverage>
+          <dc:coverage>Mali</dc:coverage>
+          <dc:coverage>United Republic of Tanzania</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5001/</dc:identifier>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/C391.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5034/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5002</identifier>
+        <datestamp>2004-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>342E3810-2C88-4D29-B4BB-1486CB432BC6</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F0E2C894-FC0A-4BC1-B977-AFF4A1896986</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Putting Miners First: Understanding the Livelihoods Context of Small-Scale and Artisanal Mining in Ghana.
+          </dc:title>
+          <dc:creator opf:role="aut">Ofei-Aboagye, E.</dc:creator>
+          <dc:creator opf:role="aut">Thompson, N.M.</dc:creator>
+          <dc:creator opf:role="aut">Al-Hassan, S.</dc:creator>
+          <dc:creator opf:role="aut">Akabzaa, T.</dc:creator>
+          <dc:creator opf:role="aut">Ayamdoo, C.</dc:creator>
+          <dc:description>
+            <![CDATA[
+Project C39 examined the economic contribution of artisanal mining at the micro-level in terms of levels and distribution of earnings, to enhance understanding of the challenges faced by artisanal mining communities in Ghana and Tanzania, with the objective of devising policy initiatives for improving the security and quality of life of their people.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The present paper reports the findings of the Ghana study.
+]]>
+          </dc:description>
+          <dc:subject>G1</dc:subject>
+          <dc:date>2004-01-01T00:00:00</dc:date>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/C392.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5034/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5003</identifier>
+        <datestamp>2004-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>342E3810-2C88-4D29-B4BB-1486CB432BC6</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F0E2C894-FC0A-4BC1-B977-AFF4A1896986</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Increasing the Contribution of Artisanal and Small-scale Mining to Poverty Reduction in Tanzania.
+          </dc:title>
+          <dc:creator opf:role="aut">Mwaipopo, R.</dc:creator>
+          <dc:creator opf:role="aut">Mutagwaba, W.</dc:creator>
+          <dc:creator opf:role="aut">Nyange, D.</dc:creator>
+          <dc:creator opf:role="aut">Fisher, E.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This report outlines findings from a study examining the contribution of artisanal and small-scale mining (ASM) to poverty reduction in Tanzania based on an analysis of gold and diamond mining in Mwanza Region.
+]]>
+          </dc:description>
+          <dc:subject>G1</dc:subject>
+          <dc:date>2004-01-01T00:00:00</dc:date>
+          <dc:coverage>United Republic of Tanzania</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/C393.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5034/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5004</identifier>
+        <datestamp>2002-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>342E3810-2C88-4D29-B4BB-1486CB432BC6</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>F0E2C894-FC0A-4BC1-B977-AFF4A1896986</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Review of road safety management practice: final report.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Aeron-Thomas, A.</dc:creator>
+          <dc:creator opf:role="aut">Downing, A.J.</dc:creator>
+          <dc:creator opf:role="aut">Jacobs, G.D.</dc:creator>
+          <dc:creator opf:role="aut">Fletcher, J.P.</dc:creator>
+          <dc:creator opf:role="aut">Selby, T.</dc:creator>
+          <dc:creator opf:role="aut">Silcock, D.T.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This is the final report of a study intended to investigate the current road safety situation in a sample of low income countries and high income countries, and to identify good practice in the following four areas:&lt;br/&gt;&lt;br/&gt;· Organization of road safety&lt;br/&gt;&lt;br/&gt;· Road safety plans&lt;br/&gt;&lt;br/&gt;· Funding of road safety&lt;br/&gt;&lt;br/&gt;· Private sector participation&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;After an introductory chapter, the methodology and case study selection are explained in Chapter 2. The key areas of the review: coordination, action plan, funding and business sector participation are discussed separately in Chapters 4-7. A summary table is included in each of these chapters with the key features of the case studies highlighted. These chapters also include examples of good practice and a review of the lessons learned while the recommendations are presented separately in Chapter 8.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The appendices are available separately. See :&lt;a href="http://r4d.dfid.gov.uk/Output/5005/default.aspx"target="_blank"&gt;Road safety management review: Appendices&lt;/a&gt;.
+]]>
+          </dc:description>
+          <dc:subject>Transport</dc:subject>
+          <dc:subject>T1</dc:subject>
+          <dc:date>2002-01-01T00:00:00</dc:date>
+          <dc:coverage>Australia</dc:coverage>
+          <dc:coverage>Bangladesh</dc:coverage>
+          <dc:coverage>Chile</dc:coverage>
+          <dc:coverage>Ethiopia</dc:coverage>
+          <dc:coverage>Fiji</dc:coverage>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>India</dc:coverage>
+          <dc:coverage>Indonesia</dc:coverage>
+          <dc:coverage>New Zealand</dc:coverage>
+          <dc:coverage>
+            United Kingdom of Great Britain and Northern Ireland
+          </dc:coverage>
+          <dc:coverage>Latin America and the Caribbean</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Americas</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:coverage>Europe</dc:coverage>
+          <dc:coverage>Oceania</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5004/</dc:identifier>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/documentstore/303_RSMR_Final_Report.PDF
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5037/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5005</identifier>
+        <datestamp>2002-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>342E3810-2C88-4D29-B4BB-1486CB432BC6</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>F0E2C894-FC0A-4BC1-B977-AFF4A1896986</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Road safety management review: Appendices.</dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Aeron-Thomas, A.</dc:creator>
+          <dc:creator opf:role="aut">Downing, A.J.</dc:creator>
+          <dc:creator opf:role="aut">Jacobs, G.D.</dc:creator>
+          <dc:creator opf:role="aut">Fletcher, J.P.</dc:creator>
+          <dc:creator opf:role="aut">Selby, T.</dc:creator>
+          <dc:creator opf:role="aut">Silcock, D.T.</dc:creator>
+          <dc:description>
+            <![CDATA[
+These are the appendices of the final report of project C5, a study intended to investigate the current road safety situation in a sample of low income countries and high income countries. The appendices include the survey sent to the countries and a summary of the findings for each country. Appendix C shows the membership composition of several National Road Safety Councils with business sector and community representatives highlighted. Appendix D contains the recommendations from a review of over 100 local UK road safety plans with the different plan structure used in several countries shown in Appendix E. Examples of business sector participation in road safety are included in Appendix F with examples from the case studies, UK mailing and a literature review.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The final report is available separately, see:&lt;a href="http://r4d.dfid.gov.uk/Output/5004/default.aspx"target="_blank"&gt;Review of road safety management practice: final report&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;
+]]>
+          </dc:description>
+          <dc:subject>T1</dc:subject>
+          <dc:date>2002-01-01T00:00:00</dc:date>
+          <dc:coverage>Australia</dc:coverage>
+          <dc:coverage>Bangladesh</dc:coverage>
+          <dc:coverage>Chile</dc:coverage>
+          <dc:coverage>Ethiopia</dc:coverage>
+          <dc:coverage>Fiji</dc:coverage>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>India</dc:coverage>
+          <dc:coverage>Indonesia</dc:coverage>
+          <dc:coverage>New Zealand</dc:coverage>
+          <dc:coverage>
+            United Kingdom of Great Britain and Northern Ireland
+          </dc:coverage>
+          <dc:coverage>Latin America and the Caribbean</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Americas</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:coverage>Europe</dc:coverage>
+          <dc:coverage>Oceania</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5005/</dc:identifier>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/documentstore/303_RSMR%20Appendices.PDF
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5037/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5006</identifier>
+        <datestamp>2001-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>6339AFC6-8399-4F21-8E36-7DE8733DA3C8</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Road safety management review: Powerpoint presentation.
+          </dc:title>
+          <dc:title/>
+          <dc:description>
+            <![CDATA[
+This is a Powerpoint presentation summarising project C5.
+]]>
+          </dc:description>
+          <dc:subject>T1</dc:subject>
+          <dc:date>2001-01-01T00:00:00</dc:date>
+          <dc:coverage>Australia</dc:coverage>
+          <dc:coverage>Bangladesh</dc:coverage>
+          <dc:coverage>Chile</dc:coverage>
+          <dc:coverage>Ethiopia</dc:coverage>
+          <dc:coverage>Fiji</dc:coverage>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>India</dc:coverage>
+          <dc:coverage>Indonesia</dc:coverage>
+          <dc:coverage>New Zealand</dc:coverage>
+          <dc:coverage>
+            United Kingdom of Great Britain and Northern Ireland
+          </dc:coverage>
+          <dc:coverage>Latin America and the Caribbean</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Americas</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:coverage>Europe</dc:coverage>
+          <dc:coverage>Oceania</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/vnd.ms-powerpoint</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5006/</dc:identifier>
+          <dc:relation>
+            http://www.transport-links.org/transport_links/filearea/documentstore/303_JF_Review.ppt
+          </dc:relation>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5037/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5007</identifier>
+        <datestamp>2006-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>9ACD505D-A405-4FB3-82DE-188C2480553D</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>DFID KaR Geoscience Database.</dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">British Geological Survey</dc:creator>
+          <dc:description>
+            <![CDATA[
+This web site has been set up to provide access to the scientific and technical reports produced by the KaR Geoscience programme. The web site has three search interfaces to the database - spatial searching, topic searching and thesaurus searching. Guidance on carrying out searches is provided, as is a list of all reports in the database. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A copy of the KaR geoscience knowledge report database is available as a CD-Rom from John Laxton (Project Leader).
+]]>
+          </dc:description>
+          <dc:date>2006-01-01T00:00:00</dc:date>
+          <dc:coverage>Global</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5007/</dc:identifier>
+          <dc:relation>
+            http://www.bgs.ac.uk/dfid-kar-geoscience/database/home.html
+          </dc:relation>
+          <dc:relation>
+            http://www.bgs.ac.uk/research/international/reportSearch.cfm
+          </dc:relation>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5038/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5008</identifier>
+        <datestamp>2002-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>342E3810-2C88-4D29-B4BB-1486CB432BC6</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>F0E2C894-FC0A-4BC1-B977-AFF4A1896986</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Labour-based roads deterioration study: procedure for site selection, commissioning and monitoring.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Transport Research Laboratory</dc:creator>
+          <dc:description>
+            <![CDATA[
+This report details the methodology for selecting and commissioning road sections and monitoring them in Uganda.&lt;br/&gt;&lt;br/&gt;
+]]>
+          </dc:description>
+          <dc:subject>T2</dc:subject>
+          <dc:date>2002-01-01T00:00:00</dc:date>
+          <dc:coverage>Uganda</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5008/</dc:identifier>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/documentstore/323_Site%20set-up%20&%20monitoring%20report.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5039/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5009</identifier>
+        <datestamp>2000-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>309FEF06-341F-4791-823D-8DD806D30419</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Urban Projects Manual.</dc:title>
+          <dc:creator opf:role="aut">Davidson, F.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This is a revised edition of a manual first published in 1983. This revision contains updated text and references that have brought the manual up to an appropriate standard for use as a basic development tool for urban professionals and their client communities. The manual is based on field experie
+]]>
+            <![CDATA[
+nce in many countries, but particularly that gained in Ismailia from 1977-1980 in designing and implementing the first "sites and service" and upgrading project to be adopted formally and implemented in Egypt. The manual closely follows the technical process employed in carrying out the project and concentrates on the approach rather than particular solutions.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This publication is not available electronically, but further information on obtaining copies can be found by following the "Download" link and clicking on "Books" under the "Publications" menu.
+]]>
+          </dc:description>
+          <dc:subject>Urbanisation</dc:subject>
+          <dc:subject>Social Change</dc:subject>
+          <dc:date>2000-01-01T00:00:00</dc:date>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:relation>http://www.gpa.org.uk/</dc:relation>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5053/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5010</identifier>
+        <datestamp>1999-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>0F762380-ABCD-4BF7-8365-A1BD8DCF4E9B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Collaborative Research Programme on Highway Engineering Materials in the SADC Region. Volume 5. Proceedings of Four Country Workshops in Southern Africa: Outcomes and Indicative Actions.
+          </dc:title>
+          <dc:creator opf:role="aut">Gourley, C.S.</dc:creator>
+          <dc:creator opf:role="aut">Greening, P.A.K.</dc:creator>
+          <dc:description>
+            <![CDATA[
+TRL conducted a research project entitled "Highway Engineering Materials in Southern Africa". The project comprised four components:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;- natural gravels for road construction&lt;br/&gt;&lt;br/&gt;- chemically stabilised roadbase materials&lt;br/&gt;&lt;br/&gt;- development of a computerised materials inventory&lt;br/&gt;&lt;br/&gt;- the environmental impact of borrow-pit extraction&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Prior to finalisation of the technical reports for each of the four components, the findings of the project were presented in a series of workshops in the four collaborating countries (Botswana, Malawi, Zambia and Zimbabwe). This report summarises the outcomes of the workshops.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In addition to the four components of the workshop, feedback was also given on the revised calcrete specifications emanating from a previous project to evaluate the performance of test sections in Botswana.
+]]>
+          </dc:description>
+          <dc:subject>G1</dc:subject>
+          <dc:date>1999-01-01T00:00:00</dc:date>
+          <dc:coverage>Botswana</dc:coverage>
+          <dc:coverage>Malawi</dc:coverage>
+          <dc:coverage>Zambia</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/D231.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5054/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5011</identifier>
+        <datestamp>2003-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            A strategy for slope hazard assessment in road planning and maintenance.
+          </dc:title>
+          <dc:creator opf:role="aut">Lawrance, C.J.</dc:creator>
+          <dc:creator opf:role="aut">Cook, J.R.</dc:creator>
+          <dc:description>
+            <![CDATA[
+The paper outlines the general principles of slope hazard definition in mountainous areas in tropical and sub-tropical regions. It presents a summary of the main approaches to slope hazard assessment. Strategies are outlined for hazard assessment on new road alignments and on existing networks. Finally, examples are given of the use of environmental monitoring in eastern Nepal, and on the use of the Indonesian Slope Information System.
+]]>
+          </dc:description>
+          <dc:subject>T2</dc:subject>
+          <dc:date>2003-01-01T00:00:00</dc:date>
+          <dc:coverage>Indonesia</dc:coverage>
+          <dc:coverage>Nepal</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/documentstore/125_PA3945-03.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5057/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5012</identifier>
+        <datestamp>1997-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>342E3810-2C88-4D29-B4BB-1486CB432BC6</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>F0E2C894-FC0A-4BC1-B977-AFF4A1896986</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Principles of low cost road engineering in mountainous regions, with special reference to the Nepal Himalaya. Overseas Road Note 16.
+          </dc:title>
+          <dc:creator opf:role="edt">Lawrance, C.J.</dc:creator>
+          <dc:creator opf:role="edt">Hearn, G.J.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This Note discusses the principles behind design decisions and procedures demanded by the rigours of a mountainous environment. The geographical areas addressed are geologically young fold mountain regions in humid tropical and sub-tropical climatic zones. However, most of the principles in the Note would be applicable in any steep, topographically complex, unstable terrain. The main subjects covered are terrain hazards, route planning and site investigations, drainage design, and slope stabilisation and protection. The Note emphasises the risks associated with inappropriate design and poor construction practice, and describes procedures and techniques that are safe and economical. The Note is aimed principally at design engineers, but it will also be of value to all those involved in site investigations and contracting.
+]]>
+          </dc:description>
+          <dc:subject>T2</dc:subject>
+          <dc:date>1997-01-01T00:00:00</dc:date>
+          <dc:coverage>Nepal</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_713_ORN%2016%20-%201.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5057/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5013</identifier>
+        <datestamp>2003-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>342E3810-2C88-4D29-B4BB-1486CB432BC6</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>F0E2C894-FC0A-4BC1-B977-AFF4A1896986</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Local level planning and investment prioritisation: applicability study. Final report.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">I.T. Transport Limited</dc:creator>
+          <dc:description>
+            <![CDATA[
+This report details the process and results of a study carried out in Vietnam and Malawi over the period 2000 to 2002 to investigate the feasibility of utilising the field accessibility assessment method described in the report "Local Level Planning and Investment Prioritisation" of 1999.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Investigating the applicability of the method involves answering two basic questions:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;(a) Is the method effective in providing useful, objective, consistent, robust figures for use in local level planning?&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;(b) Is the method efficient in terms of effort put in to extract the figures against usefulness of the figures achieved? This includes an assessment of whether the resources required to complete the method are available at the local level in the countries studied.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In the report these two basic questions have been expanded to the investigation of 10 detailed points of reference (10 questions). Answering these ten details allows a conclusion to be reached about the two basic factors of applicability.
+]]>
+          </dc:description>
+          <dc:subject>T4</dc:subject>
+          <dc:date>2003-01-01T00:00:00</dc:date>
+          <dc:coverage>Malawi</dc:coverage>
+          <dc:coverage>Viet Nam</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5013/</dc:identifier>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/DCP015.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5060/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5014</identifier>
+        <datestamp>1990-01-01Z</datestamp>
+        <setSpec>358A346C-AB24-E111-9005-001B216A2B75</setSpec>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>D073D324-817A-45F2-A74E-72515D836A6B</setSpec>
+        <setSpec>309FEF06-341F-4791-823D-8DD806D30419</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>How to make a rope-and-washer pump</dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Lambert, R.</dc:creator>
+          <dc:description>
+            <![CDATA[
+The manual provides a detailed description of the materials required and the processes involved in making the rope and washer pump.&lt;br/&gt;&lt;br/&gt;The manual describes the principle of operation of the pump. The tools and materials required to construct a pump are then detailed. The process of making the pump is then described including step by step instruction and diagrams for easy visualisation. Brief guidance is given on assembling the pump in the appropriate bankside location for optimum operation.&lt;br/&gt;&lt;br/&gt;Guidance is also provided on assembling the pump to lift water from a shallow vertical well.
+]]>
+          </dc:description>
+          <dc:subject>Water</dc:subject>
+          <dc:subject>Water and Sanitation</dc:subject>
+          <dc:subject>Managing Water Resources</dc:subject>
+          <dc:subject>W5</dc:subject>
+          <dc:date>1990-01-01T00:00:00</dc:date>
+          <dc:coverage>United Republic of Tanzania</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5014/</dc:identifier>
+          <dc:identifier>1853390224</dc:identifier>
+          <dc:relation>http://www.developmentbookshop.com</dc:relation>
+          <dc:relation>
+            http://developmentbookshop.com/how-to-make-a-rope-and-washer-pump.html
+          </dc:relation>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5077/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5015</identifier>
+        <datestamp>1994-01-01Z</datestamp>
+        <setSpec>358A346C-AB24-E111-9005-001B216A2B75</setSpec>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>D073D324-817A-45F2-A74E-72515D836A6B</setSpec>
+        <setSpec>309FEF06-341F-4791-823D-8DD806D30419</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Photographs of buried pipelines for surface irrigation
+          </dc:title>
+          <dc:creator opf:role="aut">Van Bentum, R</dc:creator>
+          <dc:creator opf:role="aut">Smout, I.K.</dc:creator>
+          <dc:description>
+            <![CDATA[
+Sprinklers or trickle irrigation systems supplied through high or medium pressure pipelines can provide flexible delivery with lower losses than conventional surface delivery systems, but they tend to have considerably higher capital and operation and maintenance costs in the South than surface systems. Low pressure, buried pipeline systems offer improvements over conventional surface irrigation systems with canals, without the sophistication and high costs of pressurised sprinkler and trickle irrigation.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This separate volume of photographs is intended to be studied alongside the main report: "Buried pipelines for surface irrigation". The book gives a pictorial view of the different features of buried pipe systems as they have been observed in operation in a number of Asian countries. A brief summary of the location and function of the subject of each photograph is given.
+]]>
+          </dc:description>
+          <dc:subject>W5</dc:subject>
+          <dc:date>1994-01-01T00:00:00</dc:date>
+          <dc:coverage>Bangladesh</dc:coverage>
+          <dc:coverage>China</dc:coverage>
+          <dc:coverage>India</dc:coverage>
+          <dc:coverage>Thailand</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:relation>
+            http://www.lboro.ac.uk/departments/cv/wedc/publications/pbpfsi.htm
+          </dc:relation>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5091/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5016</identifier>
+        <datestamp>1994-01-01Z</datestamp>
+        <setSpec>358A346C-AB24-E111-9005-001B216A2B75</setSpec>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>D073D324-817A-45F2-A74E-72515D836A6B</setSpec>
+        <setSpec>309FEF06-341F-4791-823D-8DD806D30419</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Buried pipelines for surface irrigation</dc:title>
+          <dc:creator opf:role="aut">Smout, I.K.</dc:creator>
+          <dc:creator opf:role="aut">van Bertrum, R.</dc:creator>
+          <dc:description>
+            <![CDATA[
+The book, based on research findings, provides guidelines on the selection, design and construction of buried pipe distribution systems for surface irrigation, particularly in the South. These guidelines apply to the full range of pipe systems with varying water sources, pipe materials and pipe layouts. The book also aims to help identify situations in which pipe systems are attractive alternatives to canal systems. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The book endeavours to encourage planners and practitioners to consider using buried pipeline systems, and provides all the information necessary to follow this through.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The range of pipe systems and their component structures are described and classified to enable selection of the most appropriate pipe system under a range of criteria. This is assisted by the use of a number of flow charts. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Specific recommendations on design and construction are made where they are of relevance to buried pipe systems or where they deviate from accepted practice for canal systems. Emphasis is given to the design of the pipe layout, particular aspects of hydraulic design and design considerations for component structures.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The book also includes suggestions for including farmers at all stages of implementation - from planning through design and construction to operation. The appendices include useful worked examples for the design of a closed buried pipe system and for the design of a float valve stand for a semi-closed pipe system. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This book could potentially be of use to newcomers in the field of irrigation as it begins with a basic chapter covering the standard terminology on irrigation and the various methods for irrigation distribution, followed by a description of a typical pipeline distribution system. The book then becomes more detailed, with chapters on system selection, hydraulic design, design considerations, system construction and post construction issues, cost analysis and trends in upgrading and development of buried pipeline systems. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+]]>
+          </dc:description>
+          <dc:subject>W5</dc:subject>
+          <dc:date>1994-01-01T00:00:00</dc:date>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:relation>http://www.developmentbookshop.com</dc:relation>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5091/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5017</identifier>
+        <datestamp>1996-01-01Z</datestamp>
+        <setSpec>358A346C-AB24-E111-9005-001B216A2B75</setSpec>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>D073D324-817A-45F2-A74E-72515D836A6B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>BA23A2E9-8764-44AD-897D-E3082BE07963</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Reclamation of saline clay soils.</dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Abbott, C.L.</dc:creator>
+          <dc:creator opf:role="aut">Pearce, G.R.</dc:creator>
+          <dc:creator opf:role="aut">Armstrong, A.S.B.</dc:creator>
+          <dc:creator opf:role="aut">Hughes, E.J.</dc:creator>
+          <dc:creator opf:role="aut">Rycroft, D.W.</dc:creator>
+          <dc:creator opf:role="aut">Tanton, T.W.</dc:creator>
+          <dc:description>
+            <![CDATA[
+The manual describes the horizontal leaching technique. The procedure is a rapid and practical method that enables land reclamation engineers to restructure clay soils before leaching to remove the soil salts. The applied water and the removed salts are then conveyed away from the area via a drainage network.&lt;br/&gt;&lt;br/&gt;The manual has been produced to: &lt;br/&gt;&lt;br/&gt;- Assist potential users to assess whether the technique is suitable for their particular salinity problem.&lt;br/&gt;&lt;br/&gt;- Provide sufficient technical information for users to implement the method.&lt;br/&gt;&lt;br/&gt;The guide takes the user through the four main activities required for the practical application of the horizontal leaching technique:&lt;br/&gt;&lt;br/&gt;1) Assessment of site suitability and pilot testing of methodology&lt;br/&gt;&lt;br/&gt;2) Site preparation&lt;br/&gt;&lt;br/&gt;3) Water application procedures&lt;br/&gt;&lt;br/&gt;4) Monitoring and assessment&lt;br/&gt;&lt;br/&gt;The manual also contains detailed appendices on relevant issues that must also be considered: &lt;br/&gt;&lt;br/&gt;- Soil salinity &lt;br/&gt;&lt;br/&gt;- Water and salt movement in clay soils &lt;br/&gt;&lt;br/&gt;- Causes of salinity&lt;br/&gt;&lt;br/&gt;- Review of clay soil reclamation techniques&lt;br/&gt;&lt;br/&gt;- Converting laboratory salinity measurements to plot-scale salt balances&lt;br/&gt;&lt;br/&gt;- Estimating soil hydraulic conductivity and machinery specification &lt;br/&gt;&lt;br/&gt;- Saline-sodic soils.
+]]>
+          </dc:description>
+          <dc:subject>W5</dc:subject>
+          <dc:subject>clay soils</dc:subject>
+          <dc:subject>drainage</dc:subject>
+          <dc:subject>land reclamation</dc:subject>
+          <dc:subject>saline soils</dc:subject>
+          <dc:subject>salinity</dc:subject>
+          <dc:subject>leaching</dc:subject>
+          <dc:date>1996-01-01T00:00:00</dc:date>
+          <dc:coverage>Jamaica</dc:coverage>
+          <dc:coverage>Turkey</dc:coverage>
+          <dc:coverage>Americas</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5017/</dc:identifier>
+          <dc:identifier>
+            http://r4d.dfid.gov.uk/PDF/Outputs/Water/R4786-reclamation_of_saline_clay_soils.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5097/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5018</identifier>
+        <datestamp>2004-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            User-initiated extensions in government-built estates in Ghana and Zimbabwe: unconventional but effective housing supply.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Tipple, A.G.</dc:creator>
+          <dc:creator opf:role="aut">Owusu, S.E.</dc:creator>
+          <dc:creator opf:role="aut">Pritchard, C.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This paper examines user-initiated transformations to government-built housing in Ghana and Zimbabwe. Both cases were surveyed in a DFID-sponsored research programme. The 733 dwellings (398 in Ghana and 335 in Zimbabwe) surveyed show how relatively low-income households are capable of supplying new rooms and services both to improve their own housing conditions and to supply rental rooms or accommodation for family members&lt;br/&gt;&lt;br/&gt;living rent-free. In addition, the new construction is often of at least as good quality as the original structures and sometimes envelops the original in a new skin. Thus, transformation can be seen to be a means of renewing the housing stock at the same time as adding accommodation and services.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The research demonstrates that conventional views of housing design should be rethought with the long term users' involvement allowed for and encouraged. It also demonstrates that extensions tend to turn 'modern' bungalows into traditional compounds. Through workshops, it has had some success in changing official attitudes in Ghana and Zimbabwe. Suggested policies to encourage transformations include the provision of loan finance and&lt;br/&gt;&lt;br/&gt;the planned colonisation of open space next to the dwellings where plots are not provided. For new housing, transformations demonstrate that designs should take account of the likely increase in housing on site over decades. This, in turn, indicates larger plots rather than smaller ones and wider ones rather than narrower.
+]]>
+          </dc:description>
+          <dc:subject>U1</dc:subject>
+          <dc:date>2004-01-01T00:00:00</dc:date>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5018/</dc:identifier>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/R48651.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5102/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5019</identifier>
+        <datestamp>1999-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>E952D43E-2F87-468C-BD7B-51FCC959FC18</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            User-initiated transformations of government-built housing stocks: lessons from developing countries.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Tipple, A.G.</dc:creator>
+          <dc:description>
+            <![CDATA[
+People love to alter and extend their homes. Many countries have large stocks&lt;br/&gt;&lt;br/&gt;of government-built housing which, for various reasons, are in poor physical&lt;br/&gt;&lt;br/&gt;conditions and/or do not conform to the expectations of occupants as we&lt;br/&gt;&lt;br/&gt;approach the second millenium. In many developing countries, occupants of&lt;br/&gt;&lt;br/&gt;such housing make unauthorised but quite considerable changes and extensions to their dwellings for their own use and for renting out. This phenomenon is known as "Transformation" and may contain useful models for countries around the world.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In this paper we examine user-initiated transformations to government-built&lt;br/&gt;&lt;br/&gt;housing in Bangladesh, Egypt, Ghana and Zimbabwe, studied in an ODA (now&lt;br/&gt;&lt;br/&gt;DFID)-sponsored research programme. The 1600 dwellings surveyed show&lt;br/&gt;&lt;br/&gt;how relatively low income households are capable of supplying new rooms and services both to improve their own housing conditions and to supply rental rooms or accommodation for family members living rent-free. In addition, the new construction is often of at least as good quality as the original structures and sometimes envelops the original in a new skin. Thus, transformation can be seen to be a means of renewing the housing stock at the same time as adding accommodation and services.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Suggested policies to encourage transformations for the renewal of government housing include the provision of loan finance; the encouragement of cooperation between neighbours, especially in multi-storey housing; and the planned colonisation of open space next to the dwellings where plots are not provided. For new housing, transformations suggest larger plots rather than smaller ones and wider ones rather than narrower. In addition, the original dwelling should be close to the edge or corner of the plot rather than being centrally placed.
+]]>
+          </dc:description>
+          <dc:subject>U1</dc:subject>
+          <dc:date>1999-01-01T00:00:00</dc:date>
+          <dc:coverage>Bangladesh</dc:coverage>
+          <dc:coverage>Egypt</dc:coverage>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5019/</dc:identifier>
+          <dc:identifier>10630732</dc:identifier>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/R48652.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5102/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5020</identifier>
+        <datestamp>2000-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            An assessment of the decision to extend government-built houses in developing countries.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Tipple, A.G.</dc:creator>
+          <dc:creator opf:role="aut">Masters, G.A.</dc:creator>
+          <dc:creator opf:role="aut">Garrod, G.D.</dc:creator>
+          <dc:description>
+            <![CDATA[
+In an international comparative study of self-help transformations (alterations and extensions) to government-built housing in developing countries, sponsored by the Overseas Development Administration, data were collected on household and housing characteristics of about 400 households in each of four case studies (in Dhaka, Bangladesh; Cairo, Egypt; Kumasi, Ghana, and Harare, Zimbabwe). The data for each country have been used in a two step econometric analysis of the decision to transform.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The first step examines the factors which influence the decision to make an extension in the period 1991-93 (the three years before our survey) and the second step examines how much is spent on the extension. The data from all four case studies are also combined in a joint model.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In general, it seems that characteristics of the house are very influential in the&lt;br/&gt;&lt;br/&gt;decision to transform and in the decision on how much to spend once the&lt;br/&gt;&lt;br/&gt;transformation has been undertaken. Thus, the frequency and scale of extension activity by low income households in developing countries could be influenced by physical planning policy.
+]]>
+          </dc:description>
+          <dc:subject>U1</dc:subject>
+          <dc:date>2000-01-01T00:00:00</dc:date>
+          <dc:coverage>Bangladesh</dc:coverage>
+          <dc:coverage>Egypt</dc:coverage>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5020/</dc:identifier>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/R48653.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5102/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5021</identifier>
+        <datestamp>1999-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>309FEF06-341F-4791-823D-8DD806D30419</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Extending themselves: user-initiated transformation of government-built housing in developing countries
+          </dc:title>
+          <dc:creator opf:role="aut">Tipple, G.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This book examines user-initiated transformations to government-built housing in Bangladesh, Egypt, Ghana and Zimbabwe. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This book is not available electronically. Click on the Download Full Copy link to access the Liverpool University Press website, where this book can be ordered.
+]]>
+          </dc:description>
+          <dc:subject>U1</dc:subject>
+          <dc:date>1999-01-01T00:00:00</dc:date>
+          <dc:coverage>Bangladesh</dc:coverage>
+          <dc:coverage>Egypt</dc:coverage>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:relation>http://www.liverpool-unipress.co.uk</dc:relation>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5102/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5022</identifier>
+        <datestamp>1997-01-01Z</datestamp>
+        <setSpec>358A346C-AB24-E111-9005-001B216A2B75</setSpec>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>D073D324-817A-45F2-A74E-72515D836A6B</setSpec>
+        <setSpec>309FEF06-341F-4791-823D-8DD806D30419</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Management of weeds in irrigation and drainage channels
+          </dc:title>
+          <dc:creator opf:role="aut">Smout, I.K.</dc:creator>
+          <dc:creator opf:role="aut">Wade, P.M.</dc:creator>
+          <dc:creator opf:role="aut">Barker, P.J.</dc:creator>
+          <dc:creator opf:role="aut">Ferguson, C.M.</dc:creator>
+          <dc:description>
+            <![CDATA[
+The book presents a new conceptual approach to the systematic management of aquatic and bankside weeds, based on interdisciplinary research which combines ecological, engineering, institutional and economic perspectives. The focus is on irrigation systems within tropical and sub-tropical areas. The
+]]>
+            <![CDATA[
+approach is based on field experience from schemes in Zimbabwe and Kenya but it has wider application for irrigation schemes in Sub-Saharan Africa that use open channels for delivery of irrigation water or removal of drainage water. &lt;br/&gt;&lt;br/&gt;The book provides practical guidance on the identification and diagnosis of problems arising from weeds in open channel systems. It describes a maintenance strategy that incorporates:&lt;br/&gt;&lt;br/&gt; 1) Recognition and understanding of aquatic weeds&lt;br/&gt;2) Identification of suitable control strategies&lt;br/&gt;3) Assessment of the engineering demands of a given channel&lt;br/&gt;4) Quantification of economic implications&lt;br/&gt;&lt;br/&gt;A classification of weed communities is provided to assist users to identify weeds and then select the most appropriate techniques for dealing with them. &lt;br/&gt;&lt;br/&gt;Information is provided on manual, mechanical, chemical and biological control methods and guidance is given on the formulation of policy - setting objectives, identifying tasks, defining methods and institutional requirements and setting budgets. &lt;br/&gt;&lt;br/&gt;The book provides users with a process for developing a multidisciplinary approach to dealing with the problem of aquatic weeds in a cost-effective way, such that the overall efficiency of the scheme is improved. Worked examples are included which clearly illustrate to readers the method for estimating the cost of a maintenance programme. &lt;br/&gt;&lt;br/&gt;
+]]>
+          </dc:description>
+          <dc:subject>irrigation channels</dc:subject>
+          <dc:subject>W5</dc:subject>
+          <dc:subject>aquatic weeds</dc:subject>
+          <dc:subject>irrigation</dc:subject>
+          <dc:subject>water</dc:subject>
+          <dc:subject>weed control</dc:subject>
+          <dc:subject>weeds</dc:subject>
+          <dc:subject>irrigation systems</dc:subject>
+          <dc:date>1997-01-01T00:00:00</dc:date>
+          <dc:coverage>Kenya</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://r4d.dfid.gov.uk/PDF/Outputs/Water/R5500-management_of_weeds.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/217/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5023</identifier>
+        <datestamp>1995-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>342E3810-2C88-4D29-B4BB-1486CB432BC6</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F0E2C894-FC0A-4BC1-B977-AFF4A1896986</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            The development and validation of a method for the determination of specific forms of aluminium in natural waters. (Report No. WC/95/014)
+          </dc:title>
+          <dc:creator opf:role="aut">Trick, J.K.</dc:creator>
+          <dc:creator opf:role="aut">Reeder, S.</dc:creator>
+          <dc:creator opf:role="aut">Smith, B.</dc:creator>
+          <dc:creator opf:role="aut">Mushiri, S.M.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This report is one of a series of technical reports prepared by staff of the British Geological Survey in support of the Overseas Development Administration (ODA) funded Technology Development and Research (TDR) Project No. 92/10 (R5557), Geochemistry and toxicity of naturally occurring aluminium.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A primary aim of the project is to develop methodologies to predict the vulnerability of highly weathered tropical terrain to aluminium toxicity by combining geochemical mapping and modelling techniques. A pre-requisite of the study is a simple and rugged analytical methodology suitable for the quantification and speciation (i.e. the physio-chemical nature and chemical associations) of aqueous aluminium (Al) under hydrochemical environments typical of surficial and shallow groundwaters associated with tropical terrain. The report describes the refinement and validation of techniques developed by (Dougan and Wilson, 1974) for the colorimetric determination of Al using pyrocatechol violet (PCV) and for the speciation of Al (Driscoll, 1984). In the later methodology, speciation of aqueous Al is accomplished by determining the amount of aluminium present in each of three broadly defined forms: acid reactive aluminium (i.e. that liberated by the addition of acid), total monomeric aluminium (e.g. total Al3+) and non-labile monomeric aluminium (e.g. Al present as Al3+ but strongly bound to other inorganic/organic ligands). From these measurements, three distinct fractions consisting of non-labile (non-reactive) monomeric organic aluminium; labile (reactive) monomeric inorganic aluminium; and monomeric hydroxide, fluoride and sulphate complexes can be identified. Determination of the labile form of Al is most important since this fraction includes the more toxic aluminium forms (e.g. free Al3+, Al2+OH and Al+(OH)2) which are able to reduce levels of available phosphate within soils and are potentially toxic to fish and mammals.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The methods have been refined to enable the accurate detection and measurement of Al in waters rich in dissolved iron and relatively high concentrations of fluoride. Investigations into the use of measured Fe concentrations to correct low level Al measurements and/or simultaneous equations to correct for Fe interference during Al measurement have been undertaken and validated. Detailed analytical methodologies and Al speciation procedures are given in sections 3 and 4 of the report to faciliate implimentation of the method in geochemical laboratories. Preliminary results and conclusions of the present investigations are given in sections 5 and 6 of the report.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This report is available to download in full colour (2020 kb) or black and white (1666 kb)
+]]>
+          </dc:description>
+          <dc:subject>G3</dc:subject>
+          <dc:date>1995-01-01T00:00:00</dc:date>
+          <dc:coverage>Uganda</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:relation>
+            http://www.bgs.ac.uk/research/international/fulldetails.cfm?id=34
+          </dc:relation>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5111/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5024</identifier>
+        <datestamp>1995-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Geochemistry and toxicity of naturally occurring aluminium: summary report. (Report No. WC/95/023)
+          </dc:title>
+          <dc:creator opf:role="aut">Smith, B.</dc:creator>
+          <dc:description>
+            <![CDATA[
+The project summarised in this report ("Geochemistry and toxicity of naturally occurring aluminium" (92/10, R5557)) aimed to establish the feasibility of coupling geochemical mapping and modelling techniques to predict the potential for enhanced concentrations of aluminium (Al) and resulting advers
+]]>
+            <![CDATA[
+e environmental impacts on agriculture, human and animal health. The work formed part of the Overseas Development Administration (ODA) I British Geological Survey (BGS) Technology Development and Research programme, a contribution to British Government technical assistance to developing countries. The project was undertaken in collaboration with Department of Geological Survey and Mines, Uganda (DGSM) and the Soil Research Institute of Zimbabwe (SRI), two organisations in areas with similar geology but contrasting climatic and weathering regimes.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The increasing importance of maintaining agricultural productivity in marginal lands susceptible to Al toxicity (estimated to account for 20 to 30 % of the total land mass falling within the tropics) and recent investigations into analytical methods for the determination of Al in tropical waters have demonstrated the importance of increasing our understanding of the mobility and form of Al in tropical soils. For example during studies in Malawi it has been observed that total Al concentrations in ground waters abstracted from highly weathered crystalline basement rocks have been severely underestimated, and that actual concentrations may be up to a factor of ten times greater than those currently demanded by international standards for drinking water quality. To further investigate environmental levels of Al and to broaden the context of these previous studies into a more generic, predictive study, field work was performed in other regions with similar geology. These regions include the Mukono and Nawaikoke districts of Uganda and the eastern border of Zimbabwe, in which acidic iron rich soils are particularly vulnerable to Al toxicity and acidity.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Investigations in Uganda have centred primarily upon the potential concentrations of Al in drinking water associated with shallow springs and hand dug wells compared to deeper wells within the crystalline basement. Results of this work confirm that total Al concentrations are greater than current recommended levels drinking water. However, data also indicates that the majority of the "underestimated" Al is present as particulate matter and as such is unlikely to present a serious, direct, risk to health.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In Zimbabwe the potential effects of labile (ie. available) soil-bound Al on agricultural production has received greater attention and studies in the eastern part of the country have indicated a high potential for Al toxicity controlled by the presence of residual organic carbon within the soil matrix. Steps are currently being undertaken by the SRI to instigate field trials at two of the worst effected study sites to investigate the effect of remedial measures such as liming.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Studies undertaken have illustrated the. applicability, and limitations of linking geochemical mapping with modelling the chemical form of dissolved species. Overall results of this work indicate that the adverse environmental impact of Al in typical tropical waters is not excessive, especially when compared to impacts resulting from, for example, acid mine drainage, and that the major impact of Al is on agricultural productivity. Techniques transferred by the project through collaboration will promote the concept of multi-disciplinary studies which are a prerequisite to practical environmental management.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The report is available to download either in full colour (2882 kb) or in black and white (928 kb)
+]]>
+          </dc:description>
+          <dc:subject>G3</dc:subject>
+          <dc:date>1995-01-01T00:00:00</dc:date>
+          <dc:coverage>Uganda</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.bgs.ac.uk/research/international/dfid-kar/WC95023_col.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5111/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5025</identifier>
+        <datestamp>1998-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>309FEF06-341F-4791-823D-8DD806D30419</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Minerals information in developing countries: a manual. (WC/98/023).
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Chapman, G.R.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This manual proposes common standards of practice to facilitate the exchange, comparison and interaction of data on minerals production, reserves and occurrences, etc. Where the facilities for compilation of mineral statistics do not exist, the manual will provide a template for the establishment of practices that will be compatible with counterparts globally.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This manual is chiefly intended to assist those who have the task of organising, compiling and, probably simplifying for the purposes of national or international overview, the mass of technical and commercial data provided by mining and processing companies and enterprises.
+]]>
+          </dc:description>
+          <dc:subject>G5</dc:subject>
+          <dc:date>1998-01-01T00:00:00</dc:date>
+          <dc:coverage>China</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5025/</dc:identifier>
+          <dc:identifier>
+            http://www.bgs.ac.uk/research/international/dfid-kar/WC98023_col.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5112/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5026</identifier>
+        <datestamp>1995-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            The petrology and geochemistry of Nevados de Chillan volcano, Chile. (Report No. WC/95/006)
+          </dc:title>
+          <dc:creator opf:role="aut">Murphy, M.D.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This report describes the petrology and geochemistry of the active volcano of Nevados de Chillán, which is situated at 36° 50'S in the Southern Volcanic Zone of the Chilean Andes.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The study has been carded out at the University of Bristol as part of a br
+]]>
+            <![CDATA[
+oader assessment of the volcanic hazards of Nevados de Chillán, which is being undertaken in collaboration with the Servicio Nacional de Geología y Minería of Chile, the British Geological Survey and the University of Lancaster. The Nevados de Chillán hazard assessment in turn forms part of a wider ranging project entitled Volcanic Hazard Mapping for Development Planning (R5563), which is funded by the Emergency Aid Department of the Overseas Development Administration (ODA). It is led and co-ordinated by the British Geological Survey under the ODA/BGS Technology Development and Research Programme as part of the British Government's provision of aid through technical assistance to the developing countries.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The objective of the Nevados de Chillán project is to undertake a volcanic hazard assessment of the volcano using both conventional and experimental mapping techniques, with a view to developing and evaluating methods for the rapid mapping of volcanic hazards and production of hazard zone maps for use by planners and related agencies in developing countries.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A first phase of field survey work was undertaken on Nevados de Chillán in February and March 1994, and a second and final phase is being carried out at present. Following the first phase of fieldwork a number of questions arose concerning the stratigraphy and evolution of the volcano, and in particular the relationships between various lava groups that have been erupted from different volcanic centres on the Nevados de Chillán complex.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The evaluation of volcanic hazards requires a knowledge and understanding of the structure and geological evolution of a volcanic centre. The petrological and geochemical study described in this report was undertaken to help elucidate the problems related to lava classification and stratigraphy at Nevados de Chillán, and also to gain an insight into the nature of the magmatic processes operating within and beneath the volcano. The investigation was carried out in close collaboration with other members of the project team who are concerned primarily with the geological mapping and hazard assessment. Through an iterative process drawing upon the petrological and geochemical data, as well as photogeological interpretations and field observations, it has been possible to refine the stratigraphy and geological map of the volcano. This has resulted in a better understanding of the evolution and eruptive history of the volcano as a whole, which will ultimately be reflected in a more realistic assessment of the nature, distribution and impact of potential hazards on the surrounding region.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Report available in full colour (8609 kb) and black and white (5773 kb).&lt;br/&gt;&lt;br/&gt;
+]]>
+          </dc:description>
+          <dc:subject>G2</dc:subject>
+          <dc:date>1995-01-01T00:00:00</dc:date>
+          <dc:coverage>Chile</dc:coverage>
+          <dc:coverage>Latin America and the Caribbean</dc:coverage>
+          <dc:coverage>Americas</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.bgs.ac.uk/research/international/dfid-kar/WC95006_col.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5113/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5027</identifier>
+        <datestamp>1995-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            A groundwater hazard assessment scheme for solid waste disposal. (Report No. WC/95/007)
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Klinck, B.A.</dc:creator>
+          <dc:creator opf:role="aut">Crawford, M.C.</dc:creator>
+          <dc:creator opf:role="aut">Noy, D.J.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This study reports on work carried out under the Overseas Development Administration (ODA) and British Geological Survey (BGS) Technology, Development and Research (TDR) Programme (Project 93/5, R5565) as a contribution to the British Governement's provision of aid through technical assistance to d
+]]>
+            <![CDATA[
+eveloping countries. It focuses on the contamination threat to groundwater quality posed by landfill leachate. The main objective is to provide an approach for a robust means of ranking an existing or prospective waste disposal site within a hazard framework.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&
+]]>
+            <![CDATA[
+gt;The controls on contaminant migration from landfills are examined and the parameters which are important in establishing the hazard posed by a waste facility to groundwater quality identified.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The report considers: the factors which contribute to landfill hazard; the mathematical description of flow and contaminant transport in aquifers &lt;br/&gt;&lt;br/&gt; numerical modelling and parameter estimation for landfill in a number of different hydrogeological environments; case studies from Indonesia and Mexico to demonstrate the proposed scheme and to compare the methodology with existing empirical assessment schemes. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The factors, which need to be evaluated in assessing landfill or landraise impact on groundwater quality, have been identified by Klinck, (1995), and relate to site and geology and hydrogeology, and also to variables relating to the fate of the pollutants (proximity of local population, distance to nearest abstraction borehole/spring, volume of groundwater abstracted, distance to the nearest surface water) &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A number of empirical methods have been employed in evaluating groundwater vulnerability which take account of the above listed risk factors. Three of them have been considered in this study. The schemes used were DRASTIC, Aller et al., (1987); GOD, Foster, (1987) and Foster and Hirata, (1991), and the Waste Aquifer Separation Principle, WASP, of Parsons and Jolly, (1994a and 1994b). The latter scheme is specifically designed for landfill hazard ranking and makes an assessment of the impact on the aquifer directly below the waste disposal site.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The hazard assessment scheme proposed here is based on the travel time of a conservative contaminant, chloride, from a waste facility. It can be used to establish a hazard zone around a waste site for different hydrogeological and climatic settings. For the purposes of the present study a generic, deterministic model has been designed in order to examine a number of hydrogeological scenarios. The use of mathematical models offers the advantage of being able to test the sensitivity of the prediction to parameter variations where there is uncertainty in their value. The model has both 1-D and 2-D numerical, contaminant transport simulators. The impact of waste disposal is assessed not only directly below the waste site, but also in the environs of the site and in this respect the approach is novel compared with existing schemes.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A comparison of the above mentioned ranking schemes and the numerical simulators was conducted using data from the case studies. The following observations can be made: DRASTIC is insensitive to high recharge, i.e. greater than 250mma-1 and considers a narrow range of hydraulic conductivity from 4.7 x 10-5 to 9.4 x10-4 ms-1. GOD is the quickest scheme to use; the computerised version of WASP was easy to use. Because the scheme is intended for hazard assessment of prospective waste disposal sites, groundwater usage is considered; the numerical simulator requires considerable expertise to run and obtain results. Using the 1-D simulator, developed for this study, vertical travel times from the waste to the water table arc obtained. These times give a quantified groundwater pollution potential which are directly comparable with the results of the less mathematically rigorous scoring schemes.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;All of the schemes tested can be used either to evaluate prospective sites or sites already in existence.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The following procedure is suggested to evaluate the impact of a single site on the groundwater system or to compare a number of sites for their suitability for waste disposal.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Carry out a preliminary desk study of the prospective areas. This will involve obtaining topographical, geological and hydrogeological maps; climate data; site investigation reports, and any other information in the public domain. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In many cases the basic information will not be available and a site visit will be essential. During this visit a record of the geology, and geographic setting of the area should be made. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Apply GOD to rank the sites. GOD is the simplest scheme to implement and does not require very detailed data to make an assessment. It gave comparative rankings to WASP and DRASTIC. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The sites with the lowest GOD score should then be modelled using the WASP scheme or the numerical, l-D transport simulator. The sites with the lowest barrier factor scores in WASP and the longest travel times using the simulator should then be considered for waste disposal. The effect of the waste disposal operation on the fate group can be assessed using the 2-D contaminant transport simulator. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Using the model and the guidelines provided, it should be possible to derive an approximate time at which the landfill starts to pose a hazard at the distance of interest.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This report is available to download in full colour (11650 kb) and in black and white (5710kb)
+]]>
+          </dc:description>
+          <dc:subject>G3</dc:subject>
+          <dc:date>1995-01-01T00:00:00</dc:date>
+          <dc:coverage>Indonesia</dc:coverage>
+          <dc:coverage>Mexico</dc:coverage>
+          <dc:coverage>Latin America and the Caribbean</dc:coverage>
+          <dc:coverage>Americas</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5027/</dc:identifier>
+          <dc:identifier>
+            http://www.bgs.ac.uk/research/international/dfid-kar/WC95007_col.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5114/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5028</identifier>
+        <datestamp>1995-01-01Z</datestamp>
+        <setSpec>358A346C-AB24-E111-9005-001B216A2B75</setSpec>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>342E3810-2C88-4D29-B4BB-1486CB432BC6</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>D073D324-817A-45F2-A74E-72515D836A6B</setSpec>
+        <setSpec>F0E2C894-FC0A-4BC1-B977-AFF4A1896986</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Radiometric measurements, soil and water sampling in tin mining areas of Malaysia. (Report No. WC/95/062)
+          </dc:title>
+          <dc:creator opf:role="aut">P D Roberts</dc:creator>
+          <dc:description>
+            <![CDATA[
+This report presents the results of a preliminary environmental geochemical study of former tin mining areas in Malaysia, carried out as part of the project 'Environmental impact of alluvial tin mining' (93/8, R5566) under the Overseas Development Administration (ODA)/British Geological Survey Technology Development and Research (TDR) programme. The TDR programme forms part of the British Government provision of technical assistance to developing countries.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A suite of water and soil samples were collected from tin mining areas in Malaysia during November and early December 1993. In addition, radiometric measurements were taken in order to determine the extent, if any, of contamination by heavy minerals derived from the tin mining activities. Sophisticated techniques were employed for water sampling so that well characterised samples were obtained. The soil and water samples have been analysed for a wide range of elements and radioisotopes to determine the levels of contamination, particularly that from heavy minerals.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Although the work described here was intended to be a preliminary survey as part of a larger project, the results are important and show that widespread contamination of mining sites is not present, and that water contamination is in general low or absent.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This Report is available to download in either full colour (4090 kb) or black and white (3779 kb)
+]]>
+          </dc:description>
+          <dc:subject>G3</dc:subject>
+          <dc:date>1995-01-01T00:00:00</dc:date>
+          <dc:coverage>Malaysia</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.bgs.ac.uk/research/international/dfid-kar/WC95062_col.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/1527/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5029</identifier>
+        <datestamp>1997-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            The costs of maintaining and repairing vehicles in developing countries. TRL Research Report 256.
+          </dc:title>
+          <dc:creator opf:role="aut">Cundill, M.A.</dc:creator>
+          <dc:creator opf:role="aut">Hine, J.L.</dc:creator>
+          <dc:creator opf:role="aut">Greening, P.A.K.</dc:creator>
+          <dc:description>
+            <![CDATA[
+To assist with the economic appraisal of road investment and maintenance expenditure the Highway Design and Maintenance Standards Model (RTIM) and the Road Transport Investment Model (RTIM) were developed to estimate changes in transport costs associated with improvements in road condition, such as reduced road roughness. Within developing countries (where passenger time savings are usually ascribed little value) changes in vehicle maintenance costs represent an important component of the benefits of reduced transport costs resulting from improvements in road condition.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In order to improve the modelling of vehicle maintenance costs this report examines field data collected from Botswana, St Helena, and Pakistan and compares the results with HDM and RTIM. Large differences are shown to exist in the vehicle maintenance cost relationships (expressed in terms of parts consumption and maintenance labour input) between the different model formulations and the field data; Pakistan's vehicle maintenance costs are particularly low. A simplified parts consumption model is proposed using three coefficients to relate parts consumption to vehicle age and road roughness. The results from a survey of articulated trucks in Botswana fit the simple model well; two of the coefficients are close to those derived from Brazilian and Indian data used in HDM. However with the other field surveys there is little consistency in the coefficients that are derived.
+]]>
+          </dc:description>
+          <dc:subject>T2</dc:subject>
+          <dc:date>1997-01-01T00:00:00</dc:date>
+          <dc:coverage>Botswana</dc:coverage>
+          <dc:coverage>Pakistan</dc:coverage>
+          <dc:coverage>Saint Helena</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/R5591TRL256.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5116/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5030</identifier>
+        <datestamp>1997-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Key issues in rural transport in developing countries. TRL Research Report 260.
+          </dc:title>
+          <dc:creator opf:role="aut">Ellis, S.D.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This review attempts to draw together the key issues in rural transport in developing countries. It draws on the recent literature together with the author's own research in Thailand, Sri Lanka, Ghana, Zimbabwe and Pakistan. The purpose of the review is to redress the balance away from a "roads-onl
+]]>
+            <![CDATA[
+y" approach to a more integrated view of rural accessibility which includes planning for the provision of vehicle services.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The key issues covered include: a) the importance of transport in satisfying basic needs and the relationship between accessibility, mobility and rural development; b) the nature of rural transport and possible solutions to&lt;br/&gt;&lt;br/&gt;relieving the burden of village level travel, and the disproportionate effect that this burden has on women; c) the role of non-motorised, agricultural and conventional modes of transport are explored together with the constraints to their introduction and operation; and d) the importance of the market in enabling the efficient and low cost operation of transport services.
+]]>
+          </dc:description>
+          <dc:subject>T2</dc:subject>
+          <dc:date>1997-01-01T00:00:00</dc:date>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>Pakistan</dc:coverage>
+          <dc:coverage>Sri Lanka</dc:coverage>
+          <dc:coverage>Thailand</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/R5591TRL260.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5116/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5031</identifier>
+        <datestamp>1998-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            A study of household travel in the Meru District of Kenya. TRL Research Report 353
+          </dc:title>
+          <dc:creator opf:role="aut">Airey, A.</dc:creator>
+          <dc:creator opf:role="aut">Cundill, M.A.</dc:creator>
+          <dc:description>
+            <![CDATA[
+As part of the economic evaluation of the new bituminised road between Thuchi and Nkubu, in the Meru District of Kenya, a series of rural household and travel and transport surveys were undertaken over six years covering the&lt;br/&gt;&lt;br/&gt;period both before and after the road was opened.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Household size, land holdings and cash income increased over the period of the surveys, although the new road was not thought to have been a major influence on these characteristics. Prices of the main cash crops, coffee and tea, fluctuated strongly and this was an important factor in household incomes. In 1983, before the road was opened, an average of 5 vehicle journeys were made by each household per month. This rose to 11.2 journeys in 1986, but had declined to 8.4 journeys per month by 1989. It is believed that the change in journey making was influenced by a combination of factors including changes in household income and the influence of the new road as well as changes in passenger fare levels and the influence of wet weather at the time of the surveys.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The most reliable estimate of the elasticity of journey making with respect to fare levels was calculated to be about -0.6 and with respect to household incomes about +0.3. Dry season fare levels on earth and gravel roads were&lt;br/&gt;&lt;br/&gt;estimated to be about 60% higher than on bitumen surfaced roads, rising a further 39% in the wet season. Fares on bitumen roads were unchanged during the wet season.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Travel frequency was found to be strongly related to cash income. Men made more journeys and travelled further than women. Women tended to make more journeys for health and trading.
+]]>
+          </dc:description>
+          <dc:subject>T2</dc:subject>
+          <dc:date>1998-01-01T00:00:00</dc:date>
+          <dc:coverage>Kenya</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/R5591TRL353.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5116/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5032</identifier>
+        <datestamp>1995-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Road transport investment model RTIM3.</dc:title>
+          <dc:creator opf:role="aut">Cundill, M.A.</dc:creator>
+          <dc:creator opf:role="aut">Withnall, S.J.</dc:creator>
+          <dc:description>
+            <![CDATA[
+To simplify the economic appraisal of road investments in developing countries, a new version of the Road Transport Investment Model (RTIM) has been issued by the Overseas Centre of the Transport Research Laboratory. The model consists of a series of linked compiled spreadsheets that take the user
+]]>
+            <![CDATA[
+through the stages of an economic appraisal. It is easy to use and offers context-sensitive help facilities, data checking on input, and tabular and graphical outputs. The model runs quickly and easily on a small personal&lt;br/&gt;&lt;br/&gt;computer. Two examples of its use in Tanzania are described.
+]]>
+          </dc:description>
+          <dc:subject>T2</dc:subject>
+          <dc:date>1995-01-01T00:00:00</dc:date>
+          <dc:coverage>United Republic of Tanzania</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_615_PA1358_1995.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5116/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5033</identifier>
+        <datestamp>1995-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            The transition from non-motorised to motorised modes of transport.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Ellis, S.</dc:creator>
+          <dc:creator opf:role="aut">Hine, J.L.</dc:creator>
+          <dc:description>
+            <![CDATA[
+Recent studies carried out in the rural areas of developing countries have altered the way that transport planners look at rural accessibility. It is now understood that the bulk of transport requirements at the village level are for internal travel, i.e. trips to collect water and firewood, to fields, and for internal marketing. Particularly in Sub-Saharan Africa, this transport is carried out on foot and by women; the use of other vehicle types, either motorised or non-motorised, is rare. However, in many parts of Asia there is a greater diversity in vehicle types which are used to reduce household transport burdens, as well as improve marketing efficiency.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The paper presents data collected in the rural areas of Thailand, Sri Lanka, Pakistan, Ghana and Zimbabwe as part of a three year project looking into the problems of the provision of rural transport services in developing countries.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;It is argued in this paper that the low diversity of vehicle types in Sub-Saharan Africa leads to high transport charges for rural communities. Many African countries lack the good base of non-motorised transport and simple motorised vehicles that are common in much of Asia. This technology gap hinders economic growth in rural areas because as incomes rise, or farmers are able to take advantage of improved agricultural techniques, there are no appropriate technology options with which to capitalise on the situation.
+]]>
+          </dc:description>
+          <dc:subject>T2</dc:subject>
+          <dc:date>1995-01-01T00:00:00</dc:date>
+          <dc:coverage>Ghana</dc:coverage>
+          <dc:coverage>Pakistan</dc:coverage>
+          <dc:coverage>Sri Lanka</dc:coverage>
+          <dc:coverage>Thailand</dc:coverage>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5033/</dc:identifier>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_612_PA3144_1996.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5116/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5034</identifier>
+        <datestamp>1994-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Economic assessment of road projects: do our current procedures tell us what we want to know?
+          </dc:title>
+          <dc:creator opf:role="aut">Hine, J.</dc:creator>
+          <dc:creator opf:role="aut">Cundill, M.</dc:creator>
+          <dc:description>
+            <![CDATA[
+Most of the goods we consume are provided by the market but this is not the case with roads; there is no competitive market in the provision of road space. For most goods, if there is an under-supply, prices and profits rise to encourage further production and conversely, if there is an over-supply
+]]>
+            <![CDATA[
+, prices and profits fall to discourage production. In some cases, the feedback may be long-term rather than short-term but, in the course of time, profitability and output figures will show if an investment is a waste of resources.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Unfortunately, there are no such feedback mechanisms with the provision and maintenance of road space. Governments are totally dependent upon the judgement of engineers, economists, planners and researchers to tell them when, where and how many roads should be built and to what standard they should be maintained. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This paper looks at current procedures for evaluating and appraising road projects.
+]]>
+          </dc:description>
+          <dc:subject>T2</dc:subject>
+          <dc:date>1994-01-01T00:00:00</dc:date>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_616_PA1339_1994.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5116/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5035</identifier>
+        <datestamp>1990-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            The performance and impact of rail mass transit in developing countries. Research Report 278.
+          </dc:title>
+          <dc:creator opf:role="aut">Fouracre, P.R.</dc:creator>
+          <dc:creator opf:role="aut">Allport, R.J.</dc:creator>
+          <dc:creator opf:role="aut">Thomson, J.M.</dc:creator>
+          <dc:description>
+            <![CDATA[
+Many Third World cities have recently built metros, usually encouraged by manufacturers and their governments, but frowned on - because of their enormous cost - by many transport planners and aid agencies. How have these metros performed? Were they justified in either financial or economic terms? Should more cities be planning to do likewise, or are metros really a&lt;br/&gt;&lt;br/&gt;luxury that poor cities should forgo?&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;With urban growth and traffic congestion continuing unabated in much of the Third World, it is important to understand the conflicting claims for and against metro investment. This report presents the findings of a world-wide study involving observations and data collected in 21 developing cities, and the analysis of that data using a strategic transport evaluation model. It&lt;br/&gt;&lt;br/&gt;explores the hopes expressed for metros, and the reality - particularly the common misconception that they will 'cure' traffic congestion.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The report concludes that while there is much to praise in the engineering and operation of Third World metros, much criticism can justifiably be&lt;br/&gt;&lt;br/&gt;levelled at their planning and financial management. Few, if any, of them can be financially viable, but can give good economic returns in the right conditions. The study has produced a checklist of guidelines on these&lt;br/&gt;&lt;br/&gt;conditions which, although far from universal rules, provide a useful first screening on the likely success of a particular metro investment.
+]]>
+          </dc:description>
+          <dc:subject>U2</dc:subject>
+          <dc:date>1990-01-01T00:00:00</dc:date>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/documentstore/249_RR278%5B1%5D.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5117/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5036</identifier>
+        <datestamp>1991-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            The performance of busway transit in developing cities. (Research Report 329).
+          </dc:title>
+          <dc:creator opf:role="aut">Gardner, G.</dc:creator>
+          <dc:creator opf:role="aut">Cornwell, P.R.</dc:creator>
+          <dc:creator opf:role="aut">Cracknell, J.A.</dc:creator>
+          <dc:description>
+            <![CDATA[
+Busway transit is a public transport system which can offer high levels of operational performance, suitable for many urban areas in developing countries. A busway physically segregates buses and other traffic by means of&lt;br/&gt;&lt;br/&gt;island bus stops, kerbs or fences and can protect buses from congestion caused by other traffic. Eight busways were selected from about 40 identified worldwide, and were studied to establish busway 'capacity' and to&lt;br/&gt;&lt;br/&gt;investigate factors which influence busway performance.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The report concludes that a busway on its own is a useful traffic management measure, but with complementary measures to improve bus operations, can provide a high performance transit system.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A basic 2-lane two-way busway serving a corridor with busy bus stops, but without special operational measures, can accommodate 11-15,000 passengers/hour/direction (p/h/d), depending upon local conditions. High capacity configurations can offer substantially superior performance. Five of the eight busways studied accommodate passenger flows of 15,000 p/h/d or more in the critical boarding direction and of these, three carry 18,000&lt;br/&gt;&lt;br/&gt;p/h/d or more. The highest recorded passenger flow was 26,000 p/h/d in the predominantly alighting direction in Porto Alegre.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;With high passenger demands, the treatment of passenger transfer movements at bus stops is particularly important. The provision of overtaking facilities at bus stops is an especially effective way to increase throughput&lt;br/&gt;&lt;br/&gt;and decrease journey times, particularly when semi-express or express services are operated. Average commercial speeds for a well designed scheme should be around 18-25 kmph.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Trunk-and-feeder operations offer the possibility of high throughput, but institutional arrangements are necessarily more complex because of the need for through-ticketing and revenue-sharing arrangements. Grade separation, pre-payment of fares, use of high-capacity buses and traffic signal priorities can also enhance performance. Depending upon site characteristics and&lt;br/&gt;&lt;br/&gt;traffic demands, the findings support the view that future schemes should be able to achieve throughput of 25,000 p/h/d on a consistent basis, provided they are designed and managed appropriately.
+]]>
+          </dc:description>
+          <dc:subject>U2</dc:subject>
+          <dc:date>1991-01-01T00:00:00</dc:date>
+          <dc:coverage>Brazil</dc:coverage>
+          <dc:coverage>Côte d'Ivoire</dc:coverage>
+          <dc:coverage>Turkey</dc:coverage>
+          <dc:coverage>Latin America and the Caribbean</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Americas</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/documentstore/249_RR329%5B1%5D.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5117/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5037</identifier>
+        <datestamp>1996-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Decision making and large transport infrastructure projects.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Gardner, G.</dc:creator>
+          <dc:description>
+            <![CDATA[
+Work by the Overseas Centre of the Transport Research Laboratory has shown that some aid-supported investment decisions made in developing city transport projects appear to be unusual. This contradicts the aims of the international aid agencies who predominantly have clear statements about the&lt;b
+]]>
+            <![CDATA[
+r/&gt;&lt;br/&gt;conditions of their aid funding based upon rationality.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This paper examines the particular case of mass transit projects, since these are amongst the largest investments any city can make. The paper first examines the technical case for the main choice options, and then comments upon other fac tors which may influence the decisions made.
+]]>
+          </dc:description>
+          <dc:subject>U2</dc:subject>
+          <dc:date>1996-01-01T00:00:00</dc:date>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5037/</dc:identifier>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/documentstore/249_PA3143_1996%5B1%5D.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5117/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5038</identifier>
+        <datestamp>1994-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            The performance and potential of light rail. (Project Report 69).
+          </dc:title>
+          <dc:creator opf:role="aut">Gardener, G.</dc:creator>
+          <dc:creator opf:role="aut">Rutter, J.</dc:creator>
+          <dc:creator opf:role="aut">Kukn, F.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This report looks at the performance of Light Rail Transit (LRT) systems and tramways in developing cities. Case study and estimation procedures have been used to examine the maximum passenger carrying capacity of various types of LRT.&lt;br/&gt;&lt;br/&gt;The traditional tramways surveyed in India, Egypt and China all car-flows of less than 7,000 passengers per hour per direction (pphd). The more modern systems in Tunis, Budapest and Alexandria carry up to 13,000 pphd. Only the system in Manila, which is elevated (and hence segregated) along its entire length can carry flows of over 18,000 pphd.&lt;br/&gt;&lt;br/&gt;The main problem for LRT in developing cities appears to be the level of interference from other road users, together with the difficulty of controlling and organizing a regular headway service. The inability of vehicles to overtake when others are delayed, and long turn around times at terminals compound the problem. Despite their technical limitations under developing country conditions, LRT systems are very popular, and can have advantages in improving the quality of life and civic pride. They should not however be seen as an ideal solution for a poor developing city.
+]]>
+          </dc:description>
+          <dc:subject>mass transit</dc:subject>
+          <dc:subject>public transport</dc:subject>
+          <dc:subject>transport costs</dc:subject>
+          <dc:subject>U2</dc:subject>
+          <dc:subject>rail transport</dc:subject>
+          <dc:subject>urban areas</dc:subject>
+          <dc:date>1994-01-01T00:00:00</dc:date>
+          <dc:coverage>China</dc:coverage>
+          <dc:coverage>Czech Republic</dc:coverage>
+          <dc:coverage>Egypt</dc:coverage>
+          <dc:coverage>Hungary</dc:coverage>
+          <dc:coverage>India</dc:coverage>
+          <dc:coverage>Philippines</dc:coverage>
+          <dc:coverage>Tunisia</dc:coverage>
+          <dc:coverage>Turkey</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:coverage>Asia</dc:coverage>
+          <dc:coverage>Europe</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/documentstore/249_PR069_-_The_performance_of_potential_light_rail_transit_in_developing_cities%5B1%5D.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5117/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5039</identifier>
+        <datestamp>1996-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Environmental criteria for the selection of mass transit options for developing cities.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Rutter, J.C.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This presentation outlines the contribution that transport makes to the world's&lt;br/&gt;&lt;br/&gt;environmental problems. It then comments on the policy options available to improve transport efficiency, with particular reference to mass transit improvements, which are discussed in relation to k
+]]>
+            <![CDATA[
+ey environmental issues. These include not only pollution and other physical impacts directly affecting human wellbeing, natural ecosystems and global climate, but also socio-economic and urban infrastructure characteristics of less developed&lt;br/&gt;&lt;br/&gt;countries.
+]]>
+          </dc:description>
+          <dc:subject>U2</dc:subject>
+          <dc:date>1996-01-01T00:00:00</dc:date>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5039/</dc:identifier>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/documentstore/249_PA3105_1995%5B1%5D.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5117/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5040</identifier>
+        <datestamp>1995-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>51956FE7-26A4-4435-9A38-3C3B041601BE</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>0E208954-C819-48CC-A391-D79667FC3C8D</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Technology options for medium sized cities. (PA1354/95)
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Gardner, G.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This paper considers the mass transit technology available for medium sized cities. The term mass transit as used here refers to any urban transport system carrying large volumes of people, usually along well-defined corridors connecting suburbs to the city centre. This paper focuses on those mass&lt;br/&gt;&lt;br/&gt;transit systems that commonly use a reserved right-of-way for some, or all, of their route length; this includes metro railways, busway transit and Light Rail Transit.
+]]>
+          </dc:description>
+          <dc:subject>U2</dc:subject>
+          <dc:date>1995-01-01T00:00:00</dc:date>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5040/</dc:identifier>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_656_PA1354_1995.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5117/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5041</identifier>
+        <datestamp>1993-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>826DDC60-FE8B-4462-BEF1-722AAF13D8CB</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Concrete Pavement Trials in Zimbabwe. TRL Research Report 381.
+          </dc:title>
+          <dc:creator opf:role="aut">Parry, J.D.</dc:creator>
+          <dc:creator opf:role="aut">Hewitt, N.C.</dc:creator>
+          <dc:creator opf:role="aut">Jones, T.E.</dc:creator>
+          <dc:description>
+            <![CDATA[
+In 1985 the Overseas Unit of the Transport Research Laboratory assisted the Ministy of Transport in Zimbabwe to design and construct four trial sections of&lt;br/&gt;&lt;br/&gt;concrete road pavement with a total length of 1.42 km. The objective was to demonstrate the viability of concrete pavements in a region where they are not used and to generate enough data to prepare suitable specifications for the conditions common in the drier regions of Africa. This report describes the designs, summarises the condition surveys that have taken place since the road was opened to traffic and draws initial conclusions concerning design and material specifications.
+]]>
+          </dc:description>
+          <dc:subject>T2</dc:subject>
+          <dc:date>1993-01-01T00:00:00</dc:date>
+          <dc:coverage>Zimbabwe</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/pdf/outputs/R5602TRL381.pdf</dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5119/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5042</identifier>
+        <datestamp>1999-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Use of soft limestone for road-base construction in Belize.
+          </dc:title>
+          <dc:creator opf:role="aut">Woodbridge, M.E.</dc:creator>
+          <dc:description>
+            <![CDATA[
+The results of a highway experiment, constructed in May 1978 in northern&lt;br/&gt;&lt;br/&gt;Belize, designed to investigate the suitability of locally occurring calcareous&lt;br/&gt;&lt;br/&gt;materials, known as marls, for road bases arc discussed. The&lt;br/&gt;&lt;br/&gt;marls comprise high-purity carbonate materials containing mainly silt-sized&lt;br/&gt;&lt;br/&gt;particles and fall outside the grading, plasticity, and strength specifications&lt;br/&gt;&lt;br/&gt;normally required for road bases. Three marls, each with&lt;br/&gt;&lt;br/&gt;slightly different characteristics, were substituted as road base for&lt;br/&gt;&lt;br/&gt;crushed stone. One of the marls was also stabilized with ordinary Portland&lt;br/&gt;&lt;br/&gt;cement. Detailed monitoring was then undertaken periodically to&lt;br/&gt;&lt;br/&gt;determine their performance. The road pavement was constructed on an&lt;br/&gt;&lt;br/&gt;embankment to ensure good drainage. A good quality surface dressing&lt;br/&gt;&lt;br/&gt;seal has been maintained. After 19 years of traffic, measured at 1.3 million&lt;br/&gt;&lt;br/&gt;equivalent standard axles, the marl road bases have performed at&lt;br/&gt;&lt;br/&gt;least as well as the crushed stone. The cement-stabilized marl road base&lt;br/&gt;&lt;br/&gt;performed exceptionally well. Stabilization would enable the use of more&lt;br/&gt;&lt;br/&gt;plastic marls.
+]]>
+          </dc:description>
+          <dc:subject>G4</dc:subject>
+          <dc:date>1999-01-01T00:00:00</dc:date>
+          <dc:coverage>Belize</dc:coverage>
+          <dc:coverage>Latin America and the Caribbean</dc:coverage>
+          <dc:coverage>Americas</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_501_PA3450_1999.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5120/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5043</identifier>
+        <datestamp>1994-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Avoiding salt damage to bituminous surfacings: results from a road trial in Botswana.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Woodbridge, M.E.</dc:creator>
+          <dc:creator opf:role="aut">Freer-Hewish, R.</dc:creator>
+          <dc:creator opf:role="aut">Obika, M.</dc:creator>
+          <dc:creator opf:role="aut">Neil, B.</dc:creator>
+          <dc:description>
+            <![CDATA[
+To obtain a copy of this publication, please contact publications@transport-links.org.
+]]>
+          </dc:description>
+          <dc:subject>G4</dc:subject>
+          <dc:date>1994-01-01T00:00:00</dc:date>
+          <dc:coverage>Botswana</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5043/</dc:identifier>
+          <dc:identifier>1846080908</dc:identifier>
+          <dc:identifier>09684093</dc:identifier>
+          <dc:relation>
+            http://www.trl.co.uk/online_store/reports_publications/trl_reports/cat_highway_engineering/report_avoiding_salt_damage_to_bituminous_surfacings_results_from_a_road_trial_in_botswana.htm
+          </dc:relation>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5120/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5044</identifier>
+        <datestamp>1995-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>5243EB9A-2253-4CF5-82F2-32CCD7F73A4A</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Development of a reduced specification for surfacing aggregate on low volume roads in Botswana.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Woodbridge, M.E.</dc:creator>
+          <dc:creator opf:role="aut">Slater, C.W.N.</dc:creator>
+          <dc:description>
+            <![CDATA[
+To obtain a copy of this publication, please contact publications@transport-links.org quoting document number PR115.
+]]>
+          </dc:description>
+          <dc:subject>G4</dc:subject>
+          <dc:date>1995-01-01T00:00:00</dc:date>
+          <dc:coverage>Botswana</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5044/</dc:identifier>
+          <dc:identifier>1-84608-114-9</dc:identifier>
+          <dc:identifier>09684093</dc:identifier>
+          <dc:relation>
+            http://www.trl.co.uk/online_store/reports_publications/trl_reports/cat_ground_engineering/report_development_of_a_reduced_specification_for_surfacing_aggregate_on_low_traffic_roads_in_botswana.htm
+          </dc:relation>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5120/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5045</identifier>
+        <datestamp>1994-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Salt damage to bituminous surfacings: results from road trials in Botswana.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Woodbridge, M.E.</dc:creator>
+          <dc:creator opf:role="aut">Freer-Hewish, R.</dc:creator>
+          <dc:creator opf:role="aut">Obika, B.</dc:creator>
+          <dc:creator opf:role="aut">Newill, D.</dc:creator>
+          <dc:description>
+            <![CDATA[
+The paper discusses the results of research undertaken in Botswana to provide design criteria to avoid damage inflicted on thin bituminous surfaces by soluble salt. The damage, characteristic of warm arid or semi-arid regions of the World, occurs when the salt crystallizes within the pavement, phys
+]]>
+            <![CDATA[
+ically disrupting the bituminous surfacing and causing premature deterioration of the road. The criteria were worked out from observations made on a road trial constructed in May 1990 in northern Botswana where the salt levels at which damage occurred and the nature and development of the damage&lt;br/&gt;&lt;br/&gt;were determined. Some preventative measures were incorporated in the trials to determine their efficacy in avoiding damage. The results from the trials have enabled a revision of the current Botswana road design standards with respect to salt limits in pavement materials to be proposed.
+]]>
+          </dc:description>
+          <dc:subject>G4</dc:subject>
+          <dc:date>1994-01-01T00:00:00</dc:date>
+          <dc:coverage>Botswana</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5045/</dc:identifier>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_509_PA3012_1993.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5120/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5046</identifier>
+        <datestamp>1992-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Physico-chemical aspects of soluble salt damage to thin bituminous road surfacing.
+          </dc:title>
+          <dc:title/>
+          <dc:creator opf:role="aut">Obika, B.</dc:creator>
+          <dc:creator opf:role="aut">Newill, D.</dc:creator>
+          <dc:creator opf:role="aut">Freer-Hewish, R.J.</dc:creator>
+          <dc:description>
+            <![CDATA[
+Soluble salt contamination of highway construction materials occurs in&lt;br/&gt;&lt;br/&gt;climatic zones where evaporation exceeds precipitation. This results in an&lt;br/&gt;&lt;br/&gt;upward migration of moisture to the surface, where salts present in solution&lt;br/&gt;&lt;br/&gt;are precipitated. These climatic zones cover large areas of Australia, Africa,&lt;br/&gt;&lt;br/&gt;The Middle East and North and South America.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Existing guidelines and recommendations for road design and construction&lt;br/&gt;&lt;br/&gt;in saline areas are based mainly on experience of local materials and&lt;br/&gt;&lt;br/&gt;conditions without a full understanding of the damage mechanism. This&lt;br/&gt;&lt;br/&gt;has resulted in conflicting advice on how to prevent salt damage.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A laboratory simulation approach to understand the salt damage process&lt;br/&gt;&lt;br/&gt;has been reported. This paper is concerned with an appreciation of the&lt;br/&gt;&lt;br/&gt;geochemical processes, which are important for current laboratory and&lt;br/&gt;&lt;br/&gt;field testing programmes.
+]]>
+          </dc:description>
+          <dc:subject>G4</dc:subject>
+          <dc:date>1992-01-01T00:00:00</dc:date>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://r4d.dfid.gov.uk/Output/5046/</dc:identifier>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_513_PA1285_1992.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5120/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5047</identifier>
+        <datestamp>1991-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Evaluation of weak aggregates for surface dressing on low volume roads.
+          </dc:title>
+          <dc:creator opf:role="aut">Woodbridge, M.E.</dc:creator>
+          <dc:creator opf:role="aut">Newill, D.</dc:creator>
+          <dc:creator opf:role="aut">Greening, P.A.K.</dc:creator>
+          <dc:description>
+            <![CDATA[
+New roads in the Kalahari Desert region of Botswana must make best use of local materials if they are to be built economically. In the absence of rock outcrops, the main sources of roadstone are the variable duricrust deposits, described as calcrete or silcrete, which form in association with landf
+]]>
+            <![CDATA[
+orm features such as pans or old river valleys. A study of four duricrusts for use as aggregate for surface dressing in lightly trafficked roads is described.&lt;br/&gt;&lt;br/&gt;Investigations included the determination of chemical and mineralogical&lt;br/&gt;&lt;br/&gt;composition, mechanical properties, and an assessment of the duricrusts' performance in full-scale road trials. Although generally described as calcrete or silcrete, the materials commonly contain mixed, disparate calcareous and siliceous fractions. In such cases, tests on representative samples of the whole material do not readily identify the influence of the weaker calcareous&lt;br/&gt;&lt;br/&gt;fraction on engineering properties. One of the road trials was designed specifically, to examine the effect of varied proportions of calcareous and siliceous material on behavior under traffic. The results of the mechanical tests showed that with the exception of the one silcrete sample the materials were not strong enough to meet the strict Botswana specifications for surfacing aggregates. However, from the performance of the road trials and from a number of other countries where specifications are related to&lt;br/&gt;&lt;br/&gt;different traffic levels, new interim specifications were proposed in agreement with the Botswana Roads Department. On the basis of the recommended lowest traffic category of less than 0.8 million equivalent standard axles and 10 percent fines aggregate crushing test values of 130 and 100 kN for dry and soaked samples, respectively, it was considered that all of the materials investigated would be suitable for use in surface dressings for roads in the&lt;br/&gt;&lt;br/&gt;Kalahari Desert region.
+]]>
+          </dc:description>
+          <dc:subject>G4</dc:subject>
+          <dc:date>1991-01-01T00:00:00</dc:date>
+          <dc:coverage>Botswana</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_514_PA1254_1991.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5120/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5048</identifier>
+        <datestamp>1987-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            A strategy for assessing marginal quality materials for use in bituminous roads in the tropics.
+          </dc:title>
+          <dc:creator opf:role="aut">Newill, D.</dc:creator>
+          <dc:creator opf:role="aut">Toole, T.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This paper describes studies performed by TRL into the use of marginal&lt;br/&gt;&lt;br/&gt;quality materials for road pavement construction in the tropics. In the studies a strategy involving four main stages was followed. These included; mapping the location and distribution of materials, determining their properties in the field and in the laboratory, assessing their performance in road construction and under traffic and preparing guidelines for-their use.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The studies were initiated to examine the use of locally abundant natural&lt;br/&gt;&lt;br/&gt;gravels and weathered rocks as alternatives to conventional materials in&lt;br/&gt;&lt;br/&gt;areas where the latter are unavailable or too expensive. Examples of studies of volcanic-derived gravels in Ethiopia and calcareous gravels in Botswana are used to illustrate the implementation of the strategy in practice.
+]]>
+          </dc:description>
+          <dc:subject>G4</dc:subject>
+          <dc:date>1987-01-01T00:00:00</dc:date>
+          <dc:coverage>Botswana</dc:coverage>
+          <dc:coverage>Ethiopia</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_516_PA1186_1987.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5120/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5049</identifier>
+        <datestamp>1987-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>
+            Carbonation of stabilised soil-cement and soil-lime mixtures.
+          </dc:title>
+          <dc:creator opf:role="aut">Freer-Hewish, R.</dc:creator>
+          <dc:creator opf:role="aut">Newill, D.</dc:creator>
+          <dc:creator opf:role="aut">Bagonza, S.</dc:creator>
+          <dc:creator opf:role="aut">Peete, J.M.</dc:creator>
+          <dc:description>
+            <![CDATA[
+Soil stabilisation with cement or lime is used in many countries in the construction of road bases and sub-bases and for the treatment of subgrade soils. Recent studies have shown that the performance of stabilised layers can be affected by carbonation which inhibits the formation of cementitious products in soil-cement and soil-lime reactions.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This paper examines the evidence for carbonation in road trials constructed&lt;br/&gt;&lt;br/&gt;in a hot, arid area in Botswana and describes the laboratory study that followed using a clayey sand (a poor quality calcrete) from Botswana to investigate the effect of different curing conditions on soil-cement and soil-lime mixtures. Humidity, temperature and carbon dioxide in the environment were varied and the affect on strength and properties of the stabilised soils were assessed by the unconfined compressive strength and plasticity tests. Different curing periods were examined and the extent of carbonation was identified by the use of phenolphthalein indicator.
+]]>
+          </dc:description>
+          <dc:subject>G4</dc:subject>
+          <dc:date>1987-01-01T00:00:00</dc:date>
+          <dc:coverage>Botswana</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_515_PA1187_1987.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5120/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:r4d.dfid.gov.uk:Output_5050</identifier>
+        <datestamp>1987-01-01Z</datestamp>
+        <setSpec>6FEFF0EF-0CF9-49C9-8D90-08A597A4E79F</setSpec>
+        <setSpec>147B37E9-7EF6-4C7C-85BA-0EB1CC194CE9</setSpec>
+        <setSpec>3AFF1727-E978-433F-B24F-115E358217D1</setSpec>
+        <setSpec>48C5AFE1-E1E3-47B2-BB71-53870706D72B</setSpec>
+        <setSpec>F339929B-9AF9-4E37-A755-A7F2B9B17826</setSpec>
+        <setSpec>7E68F3F4-9046-4CC1-AF23-BD59D5CB3AE4</setSpec>
+        <setSpec>C8FEA0F7-9611-4336-BEB4-C79C15F0630A</setSpec>
+        <setSpec>E0F1B350-8CE6-417E-A7A6-E22A9F9BEC42</setSpec>
+        <setSpec>52852A64-3566-E311-A41E-F04DA202528D</setSpec>
+        <setSpec>958A860F-3AA8-E311-A41E-F04DA202528D</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:opf="http://www.idpf.org/2007/opf" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>The use of calcrete in paved roads in Botswana.</dc:title>
+          <dc:creator opf:role="aut">Toole, T.</dc:creator>
+          <dc:creator opf:role="aut">Lionjanga, A.V.</dc:creator>
+          <dc:creator opf:role="aut">Greening, P.A.K.</dc:creator>
+          <dc:description>
+            <![CDATA[
+This paper describes the studies undertaken in Botswana which have led to&lt;br/&gt;&lt;br/&gt;the development of local specifications for the use of calcretes in paved road&lt;br/&gt;&lt;br/&gt;construction. The studies have examined their use as road bases, untreated shoulder materials and as surface dressing aggregates. A new specification for lightly-trafficked roads based on the findings of the studies is included.&lt;br/&gt;&lt;br/&gt;The results of recent research concerning the use of cement and lime stabilisation is presented and recommendations made. Finally, the results of the research will be applied to the construction of over 1200 km of road to be constructed in the Kalahari region over the next decade. This will enable massive cost savings to be made.
+]]>
+          </dc:description>
+          <dc:subject>G4</dc:subject>
+          <dc:date>1987-01-01T00:00:00</dc:date>
+          <dc:coverage>Botswana</dc:coverage>
+          <dc:coverage>Africa</dc:coverage>
+          <dc:type>text</dc:type>
+          <dc:format>text/html</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>
+            http://www.transport-links.org/transport_links/filearea/publications/1_517_PA1185_1987.pdf
+          </dc:identifier>
+          <dc:relation>http://r4d.dfid.gov.uk/Project/5120/</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2014-07-30T09:05:39Z">59882C08-6E97-4857-B2F2-09FE40CCBFFC</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

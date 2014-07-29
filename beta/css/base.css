@@ -153,30 +153,6 @@ blockquote cite a:visited { color: #8B9798; border: none }
    position: relative;
 	padding: 18px 30px 18px 0px;
 }
-.pull-quote:before,
-.pull-quote:after {
-	height: 1em;
-	opacity: 0.45;
-	position: absolute;
-	font-size: 80px;
-   font-family: Arial, Sans-Serif;
-}
-.pull-quote:before {
-	content: "\201C";
-	top:  33px;
-	left: 0;
-}
-.pull-quote:after {
-	content: '\201D';
-	bottom: -33px;
-	right: 0;
-}
-.pull-quote blockquote {
-   margin: 0;
-}
-.pull-quote blockquote:before {
-   content: none;
-}
 
 
 /*  3. Links  ------------------------------------------------------- */

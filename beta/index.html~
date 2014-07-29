@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+<head>
+<title>R.O.M</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/layout.css">
+<!--[if lt IE 9]>
+<script src="js/html5.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="images/favicon.ico">
+</head>
+<body data-spy="scroll" data-target="#nav-wrap">
+<header class="mobile">
+  <div class="row">
+    <div class="col full">
+      <div class="logo"> <a href="#"><img alt="" src="images/logo.png"></a> </div>
+      <nav id="nav-wrap"> <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a> <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+        <ul id="nav" class="nav">
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+<section id="intro">
+  <div id="intro-slider" class="flexslider">
+    <ul class="slides">
+      <li>
+        <div class="row">
+          <div class="col full">
+            <div class="slider-text">
+              <h2>Red Orchestra Map</h2>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="row">
+          <div class="col full">
+            <div class="slider-text">
+              <h2>We map live warzones to prevent loss of innocent life. This is a #YRS2014 project.</h2>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</section>
+    <div class="col g-5 pull-right">
+    </div>
+  </div>
+</footer>
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/jquery-migrate-1.2.1.min.js"></script>
+<script src="js/scrollspy.js"></script>
+<script src="js/jquery.flexslider.js"></script>
+<script src="js/jquery.reveal.js"></script>
+<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+<script src="js/gmaps.js"></script>
+<script src="js/init.js"></script>
+<script src="js/smoothscrolling.js"></script>
+</body>
+</html>

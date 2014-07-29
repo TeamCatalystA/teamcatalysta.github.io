@@ -3,10 +3,7 @@
 @import url("font-awesome/css/font-awesome.min.css");
 
 html, body, div, span, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-article, aside, canvas, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, summary,
-time, mark {
+h1, h2, h3, h4, h5, h6, p {
    margin: 0;
    padding: 0;
    border: 0;

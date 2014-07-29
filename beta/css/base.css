@@ -178,31 +178,6 @@ blockquote cite a:visited { color: #8B9798; border: none }
    content: none;
 }
 
-/* Abbreviations */
-abbr {
-   font-family: opensans-bold, sans-serif;
-	font-variant: small-caps;
-	text-transform: lowercase;
-   letter-spacing: .5px;
-	color: gray;
-}
-abbr:hover { cursor: help; }
-
-/* drop cap */
-.drop-cap:first-letter {
-	float: left;
-	margin: 0;
-	padding: 14px 6px 0 0;
-	font-size: 84px;
-	font-family: /* Copperplate */ montserrat-bold, sans-serif;
-   line-height: 60px;
-	text-indent: 0;
-	background: transparent;
-	color: inherit;
-}
-
-hr { border: solid #E0E0E0; border-width: 1px 0 0; clear: both; margin: 11px 0 30px; height: 0; }
-
 
 /*  3. Links  ------------------------------------------------------- */
 

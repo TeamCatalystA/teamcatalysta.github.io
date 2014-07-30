@@ -9,7 +9,7 @@ xmlhttp.onreadystatechange=function() {
     
     var array = json[1];
     for (var item in array) {
-      console.log(item.name + ": " + item.incomeLevel.value)
+      console.log(item.name + ": " + item)
     }
   }
 }

@@ -1,6 +1,6 @@
-.section-head h2 { font: 30px/42px montserrat-bold, sans-serif; }
-.desc { font: 14px/24px opensans-regular, sans-serif; }
-.intro { font: 20px/36px opensans-light, sans-serif; }
+.section-head h2 { font: 30px/42px "Comic Sans MS", cursive, sans-serif; }
+.desc { font: 14px/24px "Comic Sans MS", cursive, sans-serif; }
+.intro { font: 20px/36px "Comic Sans MS", cursive, sans-serif }
 
 .flexslider .slides { zoom: 1; }
 .flexslider .slides > li { position: relative; }
@@ -68,7 +68,7 @@
 	cursor: pointer;
 	z-index: 99999;
 	opacity: 0;
-   position: absolute;
+   /*position: absolute;*/
 	top: 50%;
 
    font: 0/0 a;

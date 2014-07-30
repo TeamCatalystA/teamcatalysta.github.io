@@ -8,4 +8,5 @@ var num = json[1].length;
 
 console.log("Number of hic: " + num);
 }
+}
 xmlhttp.send(null);

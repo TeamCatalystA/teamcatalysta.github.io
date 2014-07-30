@@ -34,13 +34,13 @@ function go(url, colour, colourAlt) {
 
 function Data(url, country){
   
-  var xmlhttp = new XMLHttpRequest();
-  xmlhttp.open("GET", url,true);
-  xmlhttp.onreadystatechange=function () {
+  var xmlhttp2 = new XMLHttpRequest();
+  xmlhttp2.open("GET", url,true);
+  xmlhttp2.onreadystatechange=function () {
     if (xmlhttp.readyState==4) {
-      var json = JSON.parse(xmlhttp.responseText);
+      var t = JSON.parse(xmlhttp.responseText);
         
-      var num = json[1].length;
+      var num = t[1].length;
       console.log("Number of hic: " + num);
   
 }

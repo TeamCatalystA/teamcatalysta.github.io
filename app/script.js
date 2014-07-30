@@ -1,5 +1,4 @@
 var xmlhttp = new XMLHttpRequest();
-
 xmlhttp.open("GET", "hic.json",true);
 xmlhttp.onreadystatechange=function output() {
   if (xmlhttp.readyState==4) {

@@ -30,21 +30,6 @@
     clear: both;
 }
 
-header {
-   height: 54px;
-   width: 100%;
-   z-index: 99999;
-   background: url(../images/k-opacity-70.png);
-
-   position: fixed;
-   top: 0;
-   left: 0;
-}
-header.static {
-   background: #232629;
-   position: static;
-}
-
 /* ================================================================== */
 
 /* c. Intro Section

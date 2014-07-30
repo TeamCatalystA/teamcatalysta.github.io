@@ -3,7 +3,7 @@ console.log("Init");
 var xmlhttp = new XMLHttpRequest();
 
 xmlhttp.open("GET", "hic.json",true);
-xmlhttp.onreadystatechange=function() {
+xmlhttp.onreadystatechange=function output() {
   if (xmlhttp.readyState==4) {
     var json = JSON.parse(xmlhttp.responseText);
     
@@ -11,7 +11,7 @@ xmlhttp.onreadystatechange=function() {
     for (var i in array) {
       var item = array[i];
       
-      console.log(item.name + ": " + item)
+      console.log(item.name + ": " + item.incomeLevel.value)
     }
   }
 }

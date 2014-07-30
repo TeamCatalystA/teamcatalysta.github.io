@@ -33,8 +33,8 @@ function go(url, colour, colourAlt) {
         var x = 2
         do {
         xmlhttp2.onreadystatechange=function () {
-        if (xmlhttp.readyState==4) {
-          var t = JSON.parse(xmlhttp.responseText);
+        if (xmlhttp2.readyState==4) {
+          var t = JSON.parse(xmlhttp2.responseText);
         
           var num = t[1].length;
           console.log("5");

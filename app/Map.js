@@ -10,4 +10,4 @@ function Map() {
 
   
 }
-google.maps.event.addDomListener(window, 'load', Map);
+

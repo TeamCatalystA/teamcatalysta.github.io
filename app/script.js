@@ -5,7 +5,9 @@ var xmlhttp = new XMLHttpRequest();
 xmlhttp.open("GET", "Data.xml",true);
 xmlhttp.onreadystatechange=function() {
   if (xmlhttp.readyState==4) {
-   console.log(xmlhttp.responseText);
+    var $xml = $($.parseXML(xmlhttp.responseText));
+    
+    console.log($xml.find("ListRecords"));
   }
 }
 xmlhttp.send(null);

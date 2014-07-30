@@ -12,29 +12,6 @@
    background: transparent;
 }
 
-article,aside,details,figcaption,figure,
-footer,header,hgroup,menu,nav,section {
-   display: block;
-}
-
-audio:not([controls]) {
-   display: none;
-   height: 0;
-}
-
-[hidden] { display: none; }
-
-code, kbd, pre, samp {
-   font-family: monospace, serif;
-   font-size: 1em;
-}
-
-pre {
-   white-space: pre;
-   white-space: pre-wrap;
-   word-wrap: break-word;
-}
-
 *,
 *:before,
 *:after {

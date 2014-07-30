@@ -2,18 +2,6 @@
 .desc { font: 14px/24px opensans-regular, sans-serif; }
 .intro { font: 20px/36px opensans-light, sans-serif; }
 
-.flexslider a:active,
-.flexslider a:focus  { outline: none; }
-.slides, .flex-control-nav,
-.flex-direction-nav { margin: 0; padding: 0; list-style: none; }
-.slides li { margin: 0; }
-
-.flexslider {
-   position: relative;
-   zoom: 1;
-   margin: 0;
-   padding: 0;
-}
 .flexslider .slides { zoom: 1; }
 .flexslider .slides > li { position: relative; }
 

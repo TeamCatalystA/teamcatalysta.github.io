@@ -12,11 +12,18 @@ xmlhttp.onreadystatechange=function () {
       var item = json[1][i];
       var latlong = new google.maps.LatLng(item.latitude,item.longitude);
       
-      var marker = new google.maps.Marker({
-          position: latlong,
-          map: map,
-          title:item.name
-      });
+      var populationOptions = {
+        strokeColor: '#FF0000',
+        strokeOpacity: 0.8,
+        strokeWeight: 2,
+        fillColor: '#FF0000',
+        fillOpacity: 0.35,
+        map: map,
+        center: latlong,
+        radius: 100
+      };
+      // Add the circle for this city to the map.
+      var cityCircle = new google.maps.Circle(populationOptions);
     }
   }
 }

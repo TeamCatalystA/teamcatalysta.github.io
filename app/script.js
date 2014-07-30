@@ -22,6 +22,7 @@ function go(url, colour, colourAlt) {
           map: map,
           center: latlong,
           radius: 100000
+          Data("Homicides.xml", item.name)
         };
         // Add the circle for this city to the map.
         var cityCircle = new google.maps.Circle(populationOptions);
@@ -30,6 +31,32 @@ function go(url, colour, colourAlt) {
   }
   xmlhttp.send(null);
 }
+
+function Data(url, country){
+  
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.open("GET", url,true);
+  xmlhttp.onreadystatechange=function () {
+    if (xmlhttp.readyState==4) {
+      var json = JSON.parse(xmlhttp.responseText);
+        
+      var num = json[1].length;
+      console.log("Number of hic: " + num);
+  
+}
+
+function Tag(contentString) {
+  
+  google.maps.event.addListener(marker, 'click', function() {
+    map.setZoom(8);
+    map.setCenter(marker.getPosition());
+    var infowindow = new google.maps.InfoWindow({
+      content: contentString
+  });
+  });
+  
+}
+
 
 go("hic.json", "#00ff00", "#007f00");
 go("mic.json", "#ffc200", "#7f1000");

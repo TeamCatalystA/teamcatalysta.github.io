@@ -1,5 +1,3 @@
-console.log("Init");
-
 var xmlhttp = new XMLHttpRequest();
 
 xmlhttp.open("GET", "hic.json",true);

@@ -1,3 +1,5 @@
+console.log("Init");
+
 $.get("Data.xml", function (data) {
   /*debug*/ console.log("XML data: " + data);
   

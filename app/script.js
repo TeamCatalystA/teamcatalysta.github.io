@@ -9,6 +9,6 @@ xmlhttp.onreadystatechange=function output() {
     
     var num = json[1].length;
     
-    console.log("Number of hic: " + num)
+    console.log("Number of hic: " + num);
 }
 xmlhttp.send(null);

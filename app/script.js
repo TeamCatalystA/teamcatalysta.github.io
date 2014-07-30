@@ -23,7 +23,7 @@ function go(url, colour, colourAlt) {
           center: latlong,
           radius: 100000
         };
-        Data(item.name)
+        Data("Homicides.xml", item.name)
         var cityCircle = new google.maps.Circle(populationOptions);
       }
     }
@@ -31,16 +31,17 @@ function go(url, colour, colourAlt) {
   xmlhttp.send(null);
 }
 
-function Data(country){
+function Data(url, country){
   
   var xmlhttp2 = new XMLHttpRequest();
-  xmlhttp2.open("GET", "Homicides.xml" ,true);
+  xmlhttp2.open("GET", url ,true);
   xmlhttp2.onreadystatechange=function () {
     if (xmlhttp.readyState==4) {
       var t = JSON.parse(xmlhttp.responseText);
         
       var num = t[1].length;
       console.log("5");
+      xmlhttp2.send(null);
     }
   }
   

@@ -1,4 +1,4 @@
-function Map() {
+function initialize() {
   
   var mapOptions = {
                 zoom: 3,

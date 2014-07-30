@@ -1,6 +1,6 @@
-.section-head h2 { font: 30px/42px "Comic Sans MS", cursive, sans-serif; }
-.desc { font: 14px/24px "Comic Sans MS", cursive, sans-serif; }
-.intro { font: 20px/36px "Comic Sans MS", cursive, sans-serif }
+.section-head h2 { font: 30px/42px montserrat-bold, sans-serif; }
+.desc { font: 14px/24px opensans-regular, sans-serif; }
+.intro { font: 20px/36px opensans-light, sans-serif; }
 
 .flexslider .slides { zoom: 1; }
 .flexslider .slides > li { position: relative; }
@@ -40,17 +40,17 @@
    margin: 156px auto 66px auto;
 }
 .slider-text h2 {
-   font: 56px/78px "Comic Sans MS", cursive, sans-serif;
+   font: 56px/78px montserrat-regular, Sans-serif;
    color: #fff;
    text-shadow: 0px 1px 5px rgba(50, 50, 50, .5);
    padding: 0;
    margin: 0;
 }
-/*.slider-text h2 span,*/
+.slider-text h2 span,
 .slider-text a { color: #11ABB0; }
 
 .slider-text p {
-   font: 17px/36px "Comic Sans MS", cursive, sans-serif;
+   font: 17px/36px opensans-light, sans-serif;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .3);
    padding: 0;
    margin: 18px 10% 0;
@@ -68,7 +68,7 @@
 	cursor: pointer;
 	z-index: 99999;
 	opacity: 0;
-   /*position: absolute;*/
+   position: absolute;
 	top: 50%;
 
    font: 0/0 a;
@@ -101,5 +101,3 @@
    filter: alpha(opacity=30);
    cursor: default;
 }
-
-

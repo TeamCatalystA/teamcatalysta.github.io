@@ -45,15 +45,6 @@ header.static {
    position: static;
 }
 
-
-/* nav-wrap */
-#nav-wrap {
-	position: relative;
-   font: 13px opensans-regular, sans-serif;
-   float: left;
-}
-
-
 /* ================================================================== */
 
 /* c. Intro Section

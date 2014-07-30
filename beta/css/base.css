@@ -35,38 +35,6 @@ pre {
    word-wrap: break-word;
 }
 
-blockquote, q { quotes: &#8220 &#8220; }
-
-blockquote:before, blockquote:after,
-q:before, q:after {
-   content: '';
-   content: none;
-}
-
-ins {
-   background-color: #ff9;
-   color: #000;
-   text-decoration: none;
-}
-
-mark {
-   background-color: #A7F4F6;
-   color: #555;
-}
-
-del { text-decoration: line-through; }
-
-abbr[title], dfn[title] {
-   border-bottom: 1px dotted;
-   cursor: help;
-}
-
-table {
-   border-collapse: collapse;
-   border-spacing: 0;
-}
-
-
 *,
 *:before,
 *:after {

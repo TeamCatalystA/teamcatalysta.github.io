@@ -13,10 +13,10 @@ xmlhttp.onreadystatechange=function () {
       var latlong = new google.maps.LatLng(item.latitude,item.longitude);
       
       var populationOptions = {
-        strokeColor: '#B0FF00',
+        strokeColor: '#007F00',
         strokeOpacity: 0.8,
         strokeWeight: 2,
-        fillColor: '#FF0000',
+        fillColor: '#00FF00',
         fillOpacity: 0.35,
         map: map,
         center: latlong,

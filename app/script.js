@@ -1,6 +1,6 @@
 var xmlhttp = new XMLHttpRequest();
 xmlhttp.open("GET", "hic.json",true);
-xmlhttp.onreadystatechange=function output() {
+xmlhttp.onreadystatechange=function () {
 if (xmlhttp.readyState==4) {
 var json = JSON.parse(xmlhttp.responseText);
 

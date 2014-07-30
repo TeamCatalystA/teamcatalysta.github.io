@@ -20,7 +20,7 @@ xmlhttp.onreadystatechange=function () {
         fillOpacity: 0.35,
         map: map,
         center: latlong,
-        radius: 50000
+        radius: 100000
       };
       // Add the circle for this city to the map.
       var cityCircle = new google.maps.Circle(populationOptions);

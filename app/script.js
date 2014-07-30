@@ -1,6 +1,6 @@
 console.log("Init");
 
-$.get("Data.xml", undefined, function (data) {
+$.get("Data.xml", function (data) {
   /*debug*/ console.log("XML data: " + data);
   
   var $xml = $($.parseXML(data));

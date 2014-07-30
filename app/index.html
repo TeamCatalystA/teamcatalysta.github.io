@@ -17,7 +17,7 @@
     <script src="script.js"></script>
     
     <script>
-      
+      var map;
       function initialize() {
   
   var mapOptions = {
@@ -25,7 +25,7 @@
                 center: new google.maps.LatLng(0, 0)
             };
 
-            var map = new google.maps.Map(document.getElementById('map-canvas'),
+            map = new google.maps.Map(document.getElementById('map-canvas'),
     mapOptions);
 
   

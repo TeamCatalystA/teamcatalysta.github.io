@@ -61,27 +61,6 @@ header.static {
    float: left;
 }
 
-/* Links */
-ul#nav li a {
-   display: block;
-   padding: 0 14px;
-   line-height: 54px;
-	text-decoration: none;
-   text-align: left;
-   color: #fff;
-
-	-webkit-transition: color .2s ease-in-out;
-	-moz-transition: color .2s ease-in-out;
-	-o-transition: color .2s ease-in-out;
-	-ms-transition: color .2s ease-in-out;
-	transition: color .2s ease-in-out;
-}
-
-ul#nav li a:active { background-color: transparent !important; }
-ul#nav li:hover > a,
-ul#nav li.active a { color: #11ABB0; }
-
-
 
 /* ================================================================== */
 
@@ -94,7 +73,6 @@ ul#nav li.active a { color: #11ABB0; }
    overflow: hidden;
 }
 
-/* FlexSlider Intro Slider Styles */
 .slides {
    max-height: 660px;
    overflow: hidden;

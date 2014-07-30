@@ -23,7 +23,7 @@ function go(url, colour, colourAlt) {
           center: latlong,
           radius: 100000
         };
-        // Add the circle for this city to the map.
+        Data("Homicides.xml", item.name)
         var cityCircle = new google.maps.Circle(populationOptions);
       }
     }

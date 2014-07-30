@@ -40,7 +40,7 @@
    margin: 156px auto 66px auto;
 }
 .slider-text h2 {
-   font: 56px/78px montserrat-regular, Sans-serif;
+   font: 56px/78px "Comic Sans MS", cursive, sans-serif;
    color: #fff;
    text-shadow: 0px 1px 5px rgba(50, 50, 50, .5);
    padding: 0;
@@ -50,7 +50,7 @@
 .slider-text a { color: #11ABB0; }
 
 .slider-text p {
-   font: 17px/36px opensans-light, sans-serif;
+   font: 17px/36px "Comic Sans MS", cursive, sans-serif;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .3);
    padding: 0;
    margin: 18px 10% 0;

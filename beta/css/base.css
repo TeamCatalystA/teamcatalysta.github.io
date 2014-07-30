@@ -12,14 +12,6 @@
    background: transparent;
 }
 
-*,
-*:before,
-*:after {
-   -moz-box-sizing: border-box;
-   -webkit-box-sizing: border-box;
-   box-sizing: border-box;
-}
-
 body {
    background: #151719;
 	font: 15px/30px opensans-regular, sans-serif;

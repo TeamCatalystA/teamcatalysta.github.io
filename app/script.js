@@ -2,10 +2,10 @@ console.log("Init");
 
 var xmlhttp = new XMLHttpRequest();
 
-xmlhttp.open("GET", "test.txt",true);
+xmlhttp.open("GET", "Data.xml",true);
 xmlhttp.onreadystatechange=function() {
   if (xmlhttp.readyState==4) {
-   alert(xmlhttp.responseText);
+   console.log(xmlhttp.responseText);
   }
 }
 xmlhttp.send(null);

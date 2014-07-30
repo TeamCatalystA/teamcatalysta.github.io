@@ -83,13 +83,6 @@ body {
 	-webkit-text-size-adjust: 100%;
 }
 
-p { margin: 0 0 24px 0; }
-p img { margin: 0; }
-p.lead { font: 20px/36px opensans-light, sans-serif; }
-
-em { font: 15px/30px opensans-italic, sans-serif; }
-strong, b { font: 15px/30px opensans-bold, sans-serif; }
-small { font-size: 11px; line-height: inherit; }
 
 a, a:visited {
 text-decoration: none;

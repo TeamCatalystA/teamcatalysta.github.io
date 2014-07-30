@@ -7,12 +7,8 @@ xmlhttp.onreadystatechange=function output() {
   if (xmlhttp.readyState==4) {
     var json = JSON.parse(xmlhttp.responseText);
     
-    var array = json[1];
-    for (var i in array) {
-      var item = array[i];
-      
-      console.log(item.name + ": " + item.incomeLevel.value)
-    }
-  }
+    var num = json[1].length;
+    
+    console.log("Number of hic: " + num)
 }
 xmlhttp.send(null);

@@ -1,12 +1,10 @@
 console.log("Init");
 
-$.get("Data.xml", function (data) {
-  /*debug*/ console.log("XML data: " + data);
-  
-  var $xml = $($.parseXML(data));
-  
-  //Use $xml to use jQuery to use the document
+$.ajax({
+  url: "Data.xml"
 })
-  .done(function (data) {
-    console.log("Maybe this?");
+  .done(function( data ) {
+    if ( console && console.log ) {
+      console.log( "Sample of data:", data.slice( 0, 100 ) );
+    }
   });

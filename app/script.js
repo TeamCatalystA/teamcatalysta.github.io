@@ -2,13 +2,12 @@ console.log("Init");
 
 var xmlhttp = new XMLHttpRequest();
 
-xmlhttp.open("GET", "Data.xml",true);
+xmlhttp.open("GET", "http://api.worldbank.org/incomeLevels/HIC/countries?format=json&perpage=500",true);
 xmlhttp.onreadystatechange=function() {
   if (xmlhttp.readyState==4) {
-    parser=new DOMParser();
-    xmlDoc=parser.parseFromString(xmlhttp.readyState,"text/xml");
+    var json = JSO.parse(xmlhttp.responseText);
     
-    console.log(xmlDoc);
+    console.log(json);
   }
 }
 xmlhttp.send(null);

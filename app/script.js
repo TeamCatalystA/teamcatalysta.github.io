@@ -41,6 +41,8 @@ function Data(url, country){
         
       var num = t[1].length;
       console.log("Number of hic: " + num);
+    }
+  }
   
 }
 

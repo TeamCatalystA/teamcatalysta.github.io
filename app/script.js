@@ -44,7 +44,7 @@ function go(url, colour, colourAlt) {
         };
         var xmlhttp2 = new XMLHttpRequest();
         xmlhttp2.open("GET", "Homicides.xml" ,true);
-        function () {
+        xmlhttp2.onreadystatechange=function () {
         if (xmlhttp.readyState==4) {
           var t = JSON.parse(xmlhttp.responseText);
         

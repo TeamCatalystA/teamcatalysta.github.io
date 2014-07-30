@@ -16,5 +16,3 @@ xmlhttp.onreadystatechange=function output() {
   }
 }
 xmlhttp.send(null);
-
-xmlhttp = new XMLHttpRequest();

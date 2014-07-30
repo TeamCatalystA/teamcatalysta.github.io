@@ -13,54 +13,6 @@
    zoom: 1;
    margin: 0;
    padding: 0;
-}
-.flexslider .slides { zoom: 1; }
-.flexslider .slides > li { position: relative; }
-
-.flexslider .slides > li { display: none; -webkit-backface-visibility: hidden; }
-
-.flex-container { zoom: 1; position: relative; }
-
-.slides:before,
-.slides:after {
-    content: " ";
-    display: table;
-}
-.slides:after {
-    clear: both;
-}
-
-header {
-   height: 54px;
-   width: 100%;
-   z-index: 99999;
-   background: url(../images/k-opacity-70.png);
-
-   position: fixed;
-   top: 0;
-   left: 0;
-}
-header.static {
-   background: #232629;
-   position: static;
-}
-
-/* primary navigation
---------------------------------------------------------------------- */
-#nav-wrap ul, #nav-wrap li, #nav-wrap a {
-	margin: 0;
-	padding: 0;
-	border: none;
-	outline: none;
-}
-
-/* nav-wrap */
-#nav-wrap {
-	position: relative;
-   font: 13px opensans-regular, sans-serif;
-   float: left;
-}
-
 
 /* ================================================================== */
 

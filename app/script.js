@@ -42,7 +42,16 @@ function go(url, colour, colourAlt) {
           center: latlong,
           radius: 100000
         };
-        Data("Homicides.xml", item.name)
+        var xmlhttp2 = new XMLHttpRequest();
+        xmlhttp2.open("GET", url ,true);
+        xmlhttp2.onreadystatechange=function () {
+        if (xmlhttp.readyState==4) {
+          var t = JSON.parse(xmlhttp.responseText);
+        
+          var num = t[1].length;
+          console.log("5");
+          xmlhttp2.send(null);
+        }
         var cityCircle = new google.maps.Circle(populationOptions);
       }
     }

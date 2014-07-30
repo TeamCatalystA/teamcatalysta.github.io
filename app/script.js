@@ -8,7 +8,9 @@ xmlhttp.onreadystatechange=function() {
     var json = JSON.parse(xmlhttp.responseText);
     
     var array = json[1];
-    for (var item in array) {
+    for (var i in array) {
+      var item = array[i];
+      
       console.log(item.name + ": " + item)
     }
   }

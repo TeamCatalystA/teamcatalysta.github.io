@@ -21,7 +21,7 @@ function go(url, colour, colourAlt) {
           fillOpacity: 0.35,
           map: map,
           center: latlong,
-          radius: 100000
+          radius: 100000,
           Data("Homicides.xml", item.name)
         };
         // Add the circle for this city to the map.

@@ -40,7 +40,7 @@ function Data(url, country){
       var t = JSON.parse(xmlhttp.responseText);
         
       var num = t[1].length;
-      console.log("Number of hic: " + num);
+      console.log("5");
     }
   }
   

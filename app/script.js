@@ -2,7 +2,7 @@ console.log("Init");
 
 var xmlhttp = new XMLHttpRequest();
 
-xmlhttp.open("GET", "http://api.worldbank.org/incomeLevels/HIC/countries?format=json&perpage=500",true);
+xmlhttp.open("GET", "hic.json",true);
 xmlhttp.onreadystatechange=function() {
   if (xmlhttp.readyState==4) {
     var json = JSO.parse(xmlhttp.responseText);

@@ -52,6 +52,7 @@ function go(url, colour, colourAlt) {
           console.log("5");
           xmlhttp2.send(null);
         }
+        }
         var cityCircle = new google.maps.Circle(populationOptions);
       }
     }

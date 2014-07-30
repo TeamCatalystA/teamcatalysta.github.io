@@ -29,7 +29,7 @@ function go(url, colour, colourAlt) {
           radius: 100000
         };
         var xmlhttp2 = new XMLHttpRequest();
-        xmlhttp2.open("GET", "Homicides.xml" ,true);
+        xmlhttp2.open("GET", "Homicides.json" ,true);
         xmlhttp2.onreadystatechange=function () {
         if (xmlhttp.readyState==4) {
           var t = JSON.parse(xmlhttp.responseText);

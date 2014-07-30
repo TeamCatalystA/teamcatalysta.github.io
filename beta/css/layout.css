@@ -1253,28 +1253,6 @@ footer .social-links li:first-child { margin-left: 0; }
 	}
    .mobile #nav-wrap > a:after { top: 60%; }
 
-   /* toggle buttons */
-	.mobile #nav-wrap:not( :target ) > a:first-of-type,
-	.mobile #nav-wrap:target > a:last-of-type  {
-	   display: block;
-	}
-
-   /* hide menu panel */
-   .mobile #nav-wrap ul#nav {
-      height: auto;
-		display: none;
-      clear: both;
-   }
-   .mobile #nav-wrap ul#nav li {
-      display: block;
-      width: 100%;
-      height: 100%;
-      text-align: left;
-   }
-   .mobile #nav-wrap ul#nav > li.active a {
-      color: #11ABB0 !important;
-      background: none;
-   }
 
 }
 

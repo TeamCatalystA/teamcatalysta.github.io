@@ -49,7 +49,7 @@ function go(url, colour, colourAlt) {
         };
         
         var marker = new google.maps.Circle(populationOptions);
-        Tag("hi")
+        Tag(marker, "hi")
       }
     }
   }
@@ -58,7 +58,7 @@ function go(url, colour, colourAlt) {
 
 
 
-function Tag(contentString) {
+function Tag(marker, contentString) {
   
   google.maps.event.addListener(marker, 'click', function() {
     map.setZoom(8);

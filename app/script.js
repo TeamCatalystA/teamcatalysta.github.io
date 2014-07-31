@@ -6,7 +6,7 @@ function Data(url, country){
       var data = JSON.parse(r.responseText);
       var num = data.length;
       console.log(num)
-      for (var i in num) {
+      for (var i = 0; i < num; i++) {
   
   
         var item = data[i]

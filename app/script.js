@@ -26,9 +26,15 @@ function form(item){
    rad = data*5000
    return rad
  }
-  if (document.options.options.value == "Suicide rate") {
+  if (document.options.options.value == "Suicide rate - Male") {
    
    var data = item.suicide_rate_male
+   rad = data*5000
+   return rad
+ }
+ if (document.options.options.value == "Suicide rate - Female") {
+   
+   var data = item._2001_2010_suicide_rate_female
    rad = data*5000
    return rad
  }

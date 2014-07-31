@@ -63,6 +63,7 @@ function go(url, colour, colourAlt) {
         };
         
         var cityCircle = new google.maps.Circle(populationOptions);
+        markers.push(cityCircle);
       }
     }
   }
@@ -86,11 +87,16 @@ function Tag(contentString) {
 function refresh(){
 
 setAllMap(null);
+var markers = [];
+
 go("hic.json", "#00ff00", "#007f00");
 go("mic.json", "#ffc200", "#7f1000");
 go("lic.json", "#ff0000", "#7f0000");
   
 }
+
+var markers = [];
+
 
 function setAllMap(map) {
   for (var i = 0; i < markers.length; i++) {

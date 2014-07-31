@@ -47,27 +47,27 @@ function go(url, colour, colourAlt) {
           center: latlong,
           radius: 5000*x
         };
-        var info = ("Number of Homicides = " + x)
-        vmark(i, populationOptions, info)
+        
+        var cityCircle = new google.maps.Circle(populationOptions);
       }
     }
   }
   xmlhttp.send(null);
 }
 
-function vmark(num, populationOptions, contentString){
+
+
+function Tag(contentString) {
   
-  num = new google.maps.Circle(populationOptions);
-  google.maps.event.addListener(num, 'click', function() {
+  google.maps.event.addListener(marker, 'click', function() {
     map.setZoom(8);
-    map.setCenter(num.getPosition());
-    num = new google.maps.InfoWindow({
+    map.setCenter(marker.getPosition());
+    var infowindow = new google.maps.InfoWindow({
       content: contentString
   });
   });
   
 }
-
 
 
 go("hic.json", "#00ff00", "#007f00");

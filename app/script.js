@@ -43,7 +43,7 @@ function go(url, colour, colourAlt) {
         }
         }
         }
-        while x <> 1
+        while (x <> 1)
         var cityCircle = new google.maps.Circle(populationOptions);
       }
     }

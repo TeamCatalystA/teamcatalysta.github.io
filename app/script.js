@@ -45,7 +45,7 @@ function go(url, colour, colourAlt) {
           fillOpacity: 0.35,
           map: map,
           center: latlong,
-          radius: 3000*x
+          radius: 5000*x
         };
         
         var cityCircle = new google.maps.Circle(populationOptions);

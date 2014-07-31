@@ -1,11 +1,11 @@
 function Data(url, country){
   console.log("Data")
-  var xmlhttp = new XMLHttpRequest();
-  xmlhttp.open("GET", url,true);
-  xmlhttp.onreadystatechange=function () {
-    if (xmlhttp.readyState==4) {
+  var r = new XMLHttpRequest();
+  r.open("GET", url,true);
+  r.onreadystatechange=function () {
+    if (r.readyState==4) {
       console.log("5")
-      xmlhttp.send(null);
+      r.send(null);
     }
   }
   

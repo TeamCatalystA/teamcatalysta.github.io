@@ -4,7 +4,6 @@ function Data(url, country){
   r.send(null);
     var data = JSON.parse(r.responseText);
     var num = data.length;
-    console.log(num)
     for (var i = 0; i < num; i++) {
 
 

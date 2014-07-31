@@ -4,7 +4,7 @@ function Data(url, country){
   xmlhttp2.open("GET", url ,true);
   xmlhttp2.onreadystatechange=function () {
     if (xmlhttp.readyState==4) {
-      var t = JSON.parse(xmlhttp.responseText);
+      var t = JSON.parse(xmlhttp2.responseText);
         
       var num = t[1].length;
       console.log("5");

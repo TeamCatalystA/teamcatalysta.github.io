@@ -41,7 +41,7 @@ function go(url, colour, colourAlt) {
           center: latlong,
           radius: 100000
         };
-        Data("Homicides.json", item.name)
+        Data("hic.json", item.name)
         var cityCircle = new google.maps.Circle(populationOptions);
       }
     }

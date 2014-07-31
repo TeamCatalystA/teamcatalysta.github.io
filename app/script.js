@@ -31,8 +31,8 @@ function go(url, colour, colourAlt) {
         if (xmlhttp.readyState==4) {
           var t = JSON.parse(xmlhttp.responseText);
         
-          var num = t[1].length;
-          console.log("5");
+          var num2 = t[1].length;
+          console.log(num2);
           xmlhttp2.send(null);
           x = 0
         }

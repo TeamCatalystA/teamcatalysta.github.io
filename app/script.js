@@ -58,7 +58,6 @@ function go(url, colour, colourAlt) {
 function vmark(num, populationOptions, contentString){
   
   var num = new google.maps.Circle(populationOptions);
-  return num
   google.maps.event.addListener(marker, 'click', function() {
     map.setZoom(8);
     map.setCenter(marker.getPosition());

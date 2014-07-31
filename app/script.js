@@ -23,21 +23,7 @@ function go(url, colour, colourAlt) {
           center: latlong,
           radius: 100000
         };
-        var xmlhttp2 = new XMLHttpRequest();
-        xmlhttp2.open("GET", "Homicides.json" ,true);
-        var x = 1
-        xmlhttp2.onreadystatechange=function () {
         
-        while (x=1)
-        if (xmlhttp.readyState==4) {
-          var t = JSON.parse(xmlhttp.responseText);
-        
-          var num2 = t[1].length;
-          console.log(num2);
-          xmlhttp2.send(null);
-          x = 0
-        }
-        }
         var cityCircle = new google.maps.Circle(populationOptions);
       }
     }
@@ -45,7 +31,24 @@ function go(url, colour, colourAlt) {
   xmlhttp.send(null);
 }
 
-
+function Data(){
+  
+        var xmlhttp2 = new XMLHttpRequest();
+        xmlhttp2.open("GET", "Homicides.json" ,true);
+        var x = 1
+        while (1 == 1){
+        xmlhttp2.onreadystatechange=function () {
+        if (xmlhttp.readyState==4) {
+          var t = JSON.parse(xmlhttp.responseText);
+        
+          var num2 = t[1].length;
+          console.log(num2);
+          xmlhttp2.send(null);
+          return true
+        }
+        }
+  
+}
 
 function Tag(contentString) {
   

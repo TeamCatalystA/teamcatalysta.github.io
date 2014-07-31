@@ -44,6 +44,12 @@ function form(item){
    rad = data*20000
    return rad
  }
+ if (document.options.options.value == "Trust in Government") {
+   
+   var data = item._2007_2011_trust_in_national_government
+   rad = data*3000
+   return rad
+ }
   
 }
 

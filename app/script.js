@@ -35,7 +35,7 @@ function form(item){
  if (document.options.options.value == "Suicide rate - Female") {
    
    var data = item._2001_2010_suicide_rate_female
-   rad = data*5000
+   rad = data*7000
    return rad
  }
   if (document.options.options.value == "Life Satisfaction") {

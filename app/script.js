@@ -4,7 +4,7 @@ function Data(url, country){
   r.open("GET", url,true);
   r.onreadystatechange=function () {
     if (r.readyState==4) {
-      var data = JSON.parse(xmlhttp.responseText);
+      var data = JSON.parse(r.responseText);
       var num = json[1].length;
       console.log(num)
 

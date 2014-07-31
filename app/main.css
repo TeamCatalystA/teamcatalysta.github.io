@@ -5,6 +5,7 @@ body {
     position: relative;
     background-image:url(http://site-macgasm.s3.amazonaws.com/wp-content/uploads/2012/08/rainbow-wallpaper.png);
     background-repeat: no-repeat;
+    background-size: contain;
     float: right;
     margin-left: 18px;
     width:400px;

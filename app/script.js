@@ -1,5 +1,4 @@
 function Data(url, country){
-  console.log("Data")
   var r = new XMLHttpRequest();
   r.open("GET", url,true);
   r.onreadystatechange=function () {
@@ -13,6 +12,7 @@ function Data(url, country){
         
         if (item.name == country){
         return item._2004_2011_homicide_rate
+        console.log("Done")
 
     }
       }

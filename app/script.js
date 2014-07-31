@@ -60,7 +60,7 @@ function vmark(num, populationOptions, contentString){
   var num = new google.maps.Circle(populationOptions);
   google.maps.event.addListener(marker, 'click', function() {
     map.setZoom(8);
-    map.setCenter(marker.getPosition());
+    map.setCenter(num.getPosition());
     num = new google.maps.InfoWindow({
       content: contentString
   });

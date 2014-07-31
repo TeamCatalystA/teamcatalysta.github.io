@@ -27,6 +27,12 @@ function form(item){
    rad = data*5000
    return rad
  }
+  if (document.options.options.value == "Suicide rate") {
+   
+   var data = item.suicide_rate_male + item._2001_2010_suicide_rate_female
+   rad = data*5000
+   return rad
+ }
   
 }
 
@@ -79,12 +85,19 @@ function Tag(contentString) {
 
 function refresh(){
   
-  go("hic.json", "#00ff00", "#007f00");
+clearOverlays()
+go("hic.json", "#00ff00", "#007f00");
 go("mic.json", "#ffc200", "#7f1000");
 go("lic.json", "#ff0000", "#7f0000");
   
 }
 
+function clearOverlays() {
+  for (var i = 0; i < markersArray.length; i++ ) {
+    markersArray[i].setMap(null);
+  }
+  markersArray.length = 0;
+}
 go("hic.json", "#00ff00", "#007f00");
 go("mic.json", "#ffc200", "#7f1000");
 go("lic.json", "#ff0000", "#7f0000");

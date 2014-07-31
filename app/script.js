@@ -5,7 +5,7 @@ function Data(url, country){
     if (r.readyState==4) {
       var data = JSON.parse(r.responseText);
       var num = data.length;
-      for (var i in num) {
+      for (var i in data[1]) {
   
   
         var item = data[i]

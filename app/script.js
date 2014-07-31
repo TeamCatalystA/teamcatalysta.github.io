@@ -1,5 +1,5 @@
 function Data(url, country){
-  
+  console.log("Data")
   var xmlhttp2 = new XMLHttpRequest();
   xmlhttp2.open("GET", url ,true);
   xmlhttp2.onreadystatechange=function () {

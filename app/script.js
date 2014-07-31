@@ -48,15 +48,20 @@ function go(url, colour, colourAlt) {
           radius: 5000*x
         };
         var info = ("Number of Homicides = " + x)
-        var marker = new google.maps.Circle(populationOptions);
-        Tag(marker, info, i)
+        x = vmark(i, populationOptions)
+        Tag(x, info, i)
       }
     }
   }
   xmlhttp.send(null);
 }
 
-
+function vmark(num, populationOptions){
+  
+  var num = new google.maps.Circle(populationOptions);
+  return num
+  
+}
 
 function Tag(marker, contentString, num) {
   

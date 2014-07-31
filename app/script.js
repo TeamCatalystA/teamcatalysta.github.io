@@ -25,20 +25,15 @@ function go(url, colour, colourAlt) {
         };
         var xmlhttp2 = new XMLHttpRequest();
         xmlhttp2.open("GET", "Homicides.json" ,true);
-        var x = 2
-        do {
         xmlhttp2.onreadystatechange=function () {
-        if (xmlhttp2.readyState==4) {
-          var t = JSON.parse(xmlhttp2.responseText);
+        if (xmlhttp.readyState==4) {
+          var t = JSON.parse(xmlhttp.responseText);
         
           var num = t[1].length;
           console.log("5");
-          x = 1
           xmlhttp2.send(null);
         }
         }
-        }
-        while x <> 1
         var cityCircle = new google.maps.Circle(populationOptions);
       }
     }

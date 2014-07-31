@@ -17,7 +17,7 @@ function Data(url, country){
     }
       }
   }
-  
+  }
   r.send(null);
   
 }

@@ -37,6 +37,9 @@ function go(url, colour, colourAlt) {
         if (x == ""){
           x = 100000
         }
+        if (x < 10000){
+          x = x + 100000
+        }
         var populationOptions = {
           strokeColor: colourAlt,
           strokeOpacity: 0.8,

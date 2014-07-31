@@ -63,7 +63,7 @@ function Tag(marker, contentString, num) {
   google.maps.event.addListener(marker, 'click', function() {
     map.setZoom(8);
     map.setCenter(marker.getPosition());
-    var num = new google.maps.InfoWindow({
+    num = new google.maps.InfoWindow({
       content: contentString
   });
   });

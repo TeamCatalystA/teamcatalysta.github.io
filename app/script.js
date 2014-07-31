@@ -48,7 +48,7 @@ function go(url, colour, colourAlt) {
           radius: 5000*x
         };
         
-        var cityCircle = new google.maps.Circle(populationOptions);
+        var marker = new google.maps.Circle(populationOptions);
         Tag("hi")
       }
     }

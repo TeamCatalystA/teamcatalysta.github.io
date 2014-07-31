@@ -41,7 +41,7 @@ function form(item){
   if (document.options.options.value == "Life Satisfaction") {
    
    var data = item._2007_2011_overall_life_satisfaction
-   rad = data*5000
+   rad = data*50000
    return rad
  }
   

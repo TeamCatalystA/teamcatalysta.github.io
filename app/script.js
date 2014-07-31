@@ -14,7 +14,7 @@ function Data(url, country){
       return item._2004_2011_homicide_rate
       console.log("Done")
       }
-
+}
 }
 
 

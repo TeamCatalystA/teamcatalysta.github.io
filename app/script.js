@@ -5,7 +5,7 @@ function Data(url, country){
   r.onreadystatechange=function () {
     if (r.readyState==4) {
       var data = JSON.parse(r.responseText);
-      var num = data[0].length;
+      var num = data[1];
       console.log(num)
 
     }

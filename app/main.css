@@ -16,7 +16,7 @@
 #sidebar {
     position: fixed;
     height: 132px;
-    left: 0;
+    right: 0;
     top: 185px;
     width: 24px;
     background-color: blue;

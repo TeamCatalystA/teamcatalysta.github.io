@@ -1,26 +1,20 @@
 function Data(url, country){
   var r = new XMLHttpRequest();
-  r.open("GET", url,true);
-  r.onreadystatechange=function () {
-    if (r.readyState==4) {
-      var data = JSON.parse(r.responseText);
-      var num = data.length;
-      console.log(num)
-      for (var i = 0; i < num; i++) {
-  
-  
-        var item = data[i]
-        
-        if (item.name == country){
-        return item._2004_2011_homicide_rate
-        console.log("Done")
-
-    }
-      }
-  }
-  }
+  r.open("GET", url,false);
   r.send(null);
-  
+    var data = JSON.parse(r.responseText);
+    var num = data.length;
+    console.log(num)
+    for (var i = 0; i < num; i++) {
+
+
+      var item = data[i]
+      
+      if (item.name == country){
+      return item._2004_2011_homicide_rate
+      console.log("Done")
+      }
+
 }
 
 

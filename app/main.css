@@ -1,6 +1,8 @@
 #header {
     font-family: "Lucida Console";
 }
+
+/*
 #header {
     position: fixed;
     background-image:url(http://us.123rf.com/450wm/WDesigns/WDesigns1311/WDesigns131100001/23902445-an-art-deco-style-background-pattern-containing-a-seamless-repeatable-swatch.jpg);
@@ -12,7 +14,7 @@
     top: 0px; 
     z-index: 1;
 } 
-
+*/
 #sidebar {
     position: fixed;
     height: 9320px;

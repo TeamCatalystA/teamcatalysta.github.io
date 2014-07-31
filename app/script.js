@@ -4,7 +4,9 @@ function Data(url, country){
   r.open("GET", url,true);
   r.onreadystatechange=function () {
     if (r.readyState==4) {
-      console.log("5")
+      var data = JSON.parse(xmlhttp.responseText);
+      var num = json[1].length;
+      console.log(num)
 
     }
   }
@@ -28,7 +30,7 @@ function go(url, colour, colourAlt) {
       for (var i in json[1]) {
         var item = json[1][i];
         var latlong = new google.maps.LatLng(item.latitude,item.longitude);
-        
+        Data("Homicides.json", item.name)
         var populationOptions = {
           strokeColor: colourAlt,
           strokeOpacity: 0.8,
@@ -39,7 +41,7 @@ function go(url, colour, colourAlt) {
           center: latlong,
           radius: 100000
         };
-        Data("Homicides.json", item.name)
+        
         var cityCircle = new google.maps.Circle(populationOptions);
       }
     }

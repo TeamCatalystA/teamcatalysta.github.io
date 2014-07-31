@@ -5,9 +5,10 @@ function Data(url, country){
   r.onreadystatechange=function () {
     if (r.readyState==4) {
       console.log("5")
-      r.send(null);
+
     }
   }
+  r.send(null);
   
 }
 

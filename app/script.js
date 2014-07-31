@@ -48,23 +48,17 @@ function go(url, colour, colourAlt) {
           radius: 5000*x
         };
         var info = ("Number of Homicides = " + x)
-        x = vmark(i, populationOptions)
-        Tag(x, info, i)
+        vmark(i, populationOptions, info)
       }
     }
   }
   xmlhttp.send(null);
 }
 
-function vmark(num, populationOptions){
+function vmark(num, populationOptions, contentString){
   
   var num = new google.maps.Circle(populationOptions);
   return num
-  
-}
-
-function Tag(marker, contentString, num) {
-  
   google.maps.event.addListener(marker, 'click', function() {
     map.setZoom(8);
     map.setCenter(marker.getPosition());
@@ -74,6 +68,7 @@ function Tag(marker, contentString, num) {
   });
   
 }
+
 
 
 go("hic.json", "#00ff00", "#007f00");

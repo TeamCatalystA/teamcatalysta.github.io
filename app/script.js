@@ -38,7 +38,7 @@ function go(url, colour, colourAlt) {
         
 
           console.log("5");
-          var x = 1
+          x = 1
           xmlhttp2.send(null);
         }
         }

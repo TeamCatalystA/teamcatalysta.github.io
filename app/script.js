@@ -93,10 +93,9 @@ go("lic.json", "#ff0000", "#7f0000");
 }
 
 function clearOverlays() {
-  for (var i = 0; i < markersArray.length; i++ ) {
-    markersArray[i].setMap(null);
+  while(overlays[0]){
+   overlays.pop().setMap(null);
   }
-  markersArray.length = 0;
 }
 go("hic.json", "#00ff00", "#007f00");
 go("mic.json", "#ffc200", "#7f1000");

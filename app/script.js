@@ -31,7 +31,6 @@ function go(url, colour, colourAlt) {
         var xmlhttp2 = new XMLHttpRequest();
         xmlhttp2.open("GET", "Homicides.json" ,true);
         var x = 2
-        xmlhttp2.onreadystatechange=function () {
         do {
         
         if (xmlhttp2.readyState==4) {
@@ -41,7 +40,6 @@ function go(url, colour, colourAlt) {
           console.log("5");
           x = 1
           xmlhttp2.send(null);
-        }
         }
         }
         while (x != 1)

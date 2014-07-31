@@ -12,3 +12,11 @@
     top: 0px; 
     z-index: 1;
 } 
+
+#sidebar {
+    position: fixed;
+    height: 132px;
+    left: 0;
+    top: 185px;
+    width: 24px;
+}

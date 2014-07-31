@@ -31,8 +31,9 @@ function go(url, colour, colourAlt) {
         var xmlhttp2 = new XMLHttpRequest();
         xmlhttp2.open("GET", "Homicides.json" ,true);
         var x = 2
-        do {
         xmlhttp2.onreadystatechange=function () {
+        do {
+        
         if (xmlhttp2.readyState==4) {
           var t = JSON.parse(xmlhttp2.responseText);
         

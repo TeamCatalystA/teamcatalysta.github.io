@@ -84,8 +84,8 @@ function Tag(contentString) {
 }
 
 function refresh(){
-  
-cityCircle.setmap(null);
+
+setAllMap(null);
 go("hic.json", "#00ff00", "#007f00");
 go("mic.json", "#ffc200", "#7f1000");
 go("lic.json", "#ff0000", "#7f0000");

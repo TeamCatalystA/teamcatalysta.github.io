@@ -48,7 +48,11 @@ function go(url, colour, colourAlt) {
           radius: 5000*x
         };
         var info = ("Number of Homicides = " + x)
-        var marker = new google.maps.Circle(populationOptions);
+        var marker = new google.maps.Marker({
+      position: myLatlong,
+      map: map,
+      title: 'Uluru (Ayers Rock)'
+  });
         Tag(marker, info, i)
       }
     }

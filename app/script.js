@@ -4,9 +4,6 @@ function Data(url, country){
   xmlhttp.open("GET", url,true);
   xmlhttp.onreadystatechange=function () {
     if (xmlhttp.readyState==4) {
-      var t = JSON.parse(xmlhttp.responseText);
-        
-      var num = t[1].length;
       console.log("5");
       xmlhttp.send(null);
     }

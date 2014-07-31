@@ -6,10 +6,18 @@ function Data(url, country){
     if (r.readyState==4) {
       var data = JSON.parse(r.responseText);
       var num = data.length;
-      console.log(num)
+      for (var i in data) {
+  
+  
+        var item = data[i]
+        
+        if (item.name == country){
+        return item._2004_2011_homicide_rate
 
     }
+      }
   }
+  
   r.send(null);
   
 }
@@ -30,7 +38,10 @@ function go(url, colour, colourAlt) {
       for (var i in json[1]) {
         var item = json[1][i];
         var latlong = new google.maps.LatLng(item.latitude,item.longitude);
-        Data("Homicides.json", item.name)
+        var x = Data("Homicides.json", item.name)
+        if (x == ""){
+          x = 100000
+        }
         var populationOptions = {
           strokeColor: colourAlt,
           strokeOpacity: 0.8,
@@ -39,7 +50,7 @@ function go(url, colour, colourAlt) {
           fillOpacity: 0.35,
           map: map,
           center: latlong,
-          radius: 100000
+          radius: 3000*x
         };
         
         var cityCircle = new google.maps.Circle(populationOptions);

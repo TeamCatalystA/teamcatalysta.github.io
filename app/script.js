@@ -35,7 +35,7 @@ function go(url, colour, colourAlt) {
         do {
         
         if (xmlhttp2.readyState==4) {
-          var t = JSON.parse(xmlhttp2.responseText);
+          /*var t = JSON.parse(xmlhttp2.responseText);*/
         
 
           console.log("5");

@@ -29,8 +29,9 @@ function form(item){
  }
   if (document.options.options.value == "Suicide rate") {
    
-   var data = item.suicide_rate_male + item._2001_2010_suicide_rate_female
-   rad = data*5000
+   var data = item.suicide_rate_male
+   data2 = data + item._2001_2010_suicide_rate_female
+   rad = data2*5000
    return rad
  }
   

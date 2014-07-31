@@ -26,12 +26,15 @@ function go(url, colour, colourAlt) {
         var xmlhttp2 = new XMLHttpRequest();
         xmlhttp2.open("GET", "Homicides.json" ,true);
         xmlhttp2.onreadystatechange=function () {
+        var x = 1
+        while (x=1)
         if (xmlhttp.readyState==4) {
           var t = JSON.parse(xmlhttp.responseText);
         
           var num = t[1].length;
           console.log("5");
           xmlhttp2.send(null);
+          x = 0
         }
         }
         var cityCircle = new google.maps.Circle(populationOptions);

@@ -4,7 +4,7 @@ function Data(url, country){
   xmlhttp.open("GET", url,true);
   xmlhttp.onreadystatechange=function () {
     if (xmlhttp.readyState==4) {
-      console.log("5");
+      console.log("5")
       xmlhttp.send(null);
     }
   }

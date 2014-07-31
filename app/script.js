@@ -53,13 +53,13 @@ function form(item){
   if (document.options.options.value == "Perception of Safety") {
    
    var data = item._2007_2011_perception_of_safety
-   rad = data*3000
+   rad = data*2000
    return rad
  }
   if (document.options.options.value == "Freedom of Choice") {
    
    var data = item._2007_2011_satisfaction_with_freedom_of_choice
-   rad = data*3000
+   rad = data*2000
    return rad
  }
   

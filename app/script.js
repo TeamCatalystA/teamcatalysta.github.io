@@ -37,7 +37,7 @@ function Data(){
         xmlhttp2.open("GET", "Homicides.json" ,true);
         var x = 1
         xmlhttp2.onreadystatechange=function () {
-        while (1 == 1){
+        
         
         if (xmlhttp.readyState==4) {
           var t = JSON.parse(xmlhttp.responseText);
@@ -46,7 +46,7 @@ function Data(){
           console.log(num2);
           xmlhttp2.send(null);
           return true
-        }
+        
         }
         }
   

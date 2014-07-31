@@ -47,9 +47,9 @@ function go(url, colour, colourAlt) {
           center: latlong,
           radius: 5000*x
         };
-        
+        var info = ("Number of Homicides = " + x)
         var marker = new google.maps.Circle(populationOptions);
-        Tag(marker, "hi")
+        Tag(marker, info, i)
       }
     }
   }
@@ -58,12 +58,12 @@ function go(url, colour, colourAlt) {
 
 
 
-function Tag(marker, contentString) {
+function Tag(marker, contentString, num) {
   
   google.maps.event.addListener(marker, 'click', function() {
     map.setZoom(8);
     map.setCenter(marker.getPosition());
-    var infowindow = new google.maps.InfoWindow({
+    var num = new google.maps.InfoWindow({
       content: contentString
   });
   });

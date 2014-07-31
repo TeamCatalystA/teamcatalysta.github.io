@@ -4,7 +4,6 @@ function Data(url, country){
   r.send(null);
     var data = JSON.parse(r.responseText);
     var num = data.length;
-    console.log(num)
     for (var i = 0; i < num; i++) {
 
 
@@ -30,8 +29,7 @@ function form(item){
   if (document.options.options.value == "Suicide rate") {
    
    var data = item.suicide_rate_male
-   data2 = data + item._2001_2010_suicide_rate_female
-   rad = data2*5000
+   rad = data*5000
    return rad
  }
   
